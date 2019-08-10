@@ -1,0 +1,336 @@
+﻿[CVA File Information]
+CVATimeStamp=20150713T033517
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Win10 Welcome App
+
+[US.Software Description]
+Win10 Welcome App is a Desktop app that launches on the 1st boot to Desktop.  It has a page with message to welcome users, and a page to allow users to register their name and email with HP.  If the system comes with other apps like McAfee and HP Connected apps, there will be additional pages engaging with those apps.
+
+[General]
+PN=P00LRQ-B2K
+Version=1.0.326.624
+Revision=A
+Pass=1
+Type=Application
+Category=Application - General
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=HP
+VendorVersion=1.0
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+W10P32=OEM
+WT32=OEM
+WT64=OEM
+
+
+[System Information]
+SysId01=0x2255
+SysName01=HP ZBook 17 G2 Mobile Workstation
+SysId02=0x80D6
+SysName02=HP ZBook 17 G3 Mobile Workstation
+SysId03=0x2157
+SysName03=HP ElitePad 1000 G2
+SysId04=0x22DA
+SysName04=HP EliteBook Folio 9480m
+SysId05=0x8060
+SysName05=HP ProDesk 480 PC
+SysId06=0x2270
+SysName06=HP EliteBook 1040 G2
+SysId07=0x2271
+SysName07=HP EliteBook Folio 1020 G1;HP EliteBook Folio 1020 G1 Special Edition
+SysId08=0x80FA
+SysName08=HP EliteBook Folio 1040 G3
+SysId09=0x805F
+SysName09=HP ProDesk 490 PC;HP ProDesk 498 PC
+SysId10=0x805A
+SysName10=HP EliteDesk 705 PC
+SysId11=0x80FB
+SysName11=HP EliteBook Folio 1020 G2;HP EliteBook Folio 1020 G2 Special Edition
+SysId12=0x22A9
+SysName12=HP Pavilion Beats Special Edition
+SysId13=0x2163
+SysName13=
+SysId14=0x21DE
+SysName14=
+SysId15=0x8175
+SysName15=
+SysId16=0x80A0
+SysName16=
+SysId17=0x80A3
+SysName17=
+SysId18=0x80A6
+SysName18=
+SysId19=0x8079
+SysName19=HP EliteBook 840 G3;HP EliteBook 740 G3;HP EliteBook 850 G3;HP EliteBook 750 G3;HP ZBook 15u G3 Mobile Workstation
+SysId20=0x812F
+SysName20=
+SysId21=0x8130
+SysName21=
+SysId22=0x2216
+SysName22=HP EliteBook 840 G2;HP EliteBook 740 G2;HP EliteBook 850 G2;HP EliteBook 750 G2;HP ZBook 14 G2 Mobile Workstation;HP ZBook 15u G2 Mobile Workstation
+SysId23=0x80FD
+SysName23=HP ProBook 640 G2;HP ProBook 650 G2
+SysId24=0x8125
+SysName24=HP ProBook 650 G2
+SysId25=0x8063
+SysName25=HP ProOne 400 PC
+SysId26=0x80A1
+SysName26=
+SysId27=0x80A4
+SysName27=
+SysId28=0x80A7
+SysName28=
+SysId29=0x80A9
+SysName29=;HP Pavilion Gaming
+SysId30=0x8119
+SysName30=
+SysId31=0x1993
+SysName31=HP ProBook 640 G1;HP ProBook 650 G1
+SysId32=0x2101
+SysName32=HP ProBook 640 G1;HP ProBook 650 G1
+SysId33=0x1994
+SysName33=HP ProBook 640 G1
+SysId34=0x2102
+SysName34=HP ProBook 640 G1
+SysId35=0x8058
+SysName35=HP EliteOne 800 PC;HP EliteOne 800G2
+SysId36=0x806A
+SysName36=HP ProDesk 400 PC
+SysId37=0x8056
+SysName37=HP EliteDesk 800 PC
+SysId38=0x815D
+SysName38=HP Pavilion x2 Detachable
+SysId39=0x813E
+SysName39=HP Pavilion x2 Detachable
+SysId40=0x8173
+SysName40=HP x2 210 G1 Tablet
+SysId41=0x808F
+SysName41=HP ProBook 11 G1 Education Edition
+SysId42=0x8078
+SysName42=HP ProBook 11 Education Edition
+SysId43=0x8042
+SysName43=HP Pro Tablet 608 G1
+SysId44=0x805E
+SysName44=HP ProOne 600 PC
+SysId45=0x8170
+SysName45=HP EliteBook Folio 1020 G3
+SysId46=0x8062
+SysName46=HP ProDesk 400 PC
+SysId47=0x80D1
+SysName47=HP Pavilion x360 Convertible;HP Pavilion x360 m3 Convertible
+SysId48=0x8160
+SysName48=HP Envy 8 Note 5000 Tablet
+SysId49=0x8057
+SysName49=HP EliteOne 800 PC
+SysId50=0x8046
+SysName50=HP Pro Tablet 10 EE G1
+SysId51=0x805C
+SysName51=HP EliteOne 705 PC
+SysId52=0x80A2
+SysName52=
+SysId53=0x80A5
+SysName53=
+SysId54=0x80A8
+SysName54=
+SysId55=0x811A
+SysName55=
+SysId56=0x80C3
+SysName56=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId57=0x80C4
+SysName57=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId58=0x80C1
+SysName58=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId59=0x80C2
+SysName59=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId60=0x80C5
+SysName60=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId61=0x80C6
+SysName61=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId62=0x8135
+SysName62=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId63=0x8136
+SysName63=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId64=0x80CD
+SysName64=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId65=0x80CF
+SysName65=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4;HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId66=0x8075
+SysName66=HP Pavilion x360
+SysId67=0x8074
+SysName67=HP Pavilion x360
+SysId68=0x221B
+SysName68=HP Pro x2 612 G1 Power Keyboard;HP Pro x2 612 G1 Tablet;HP Pro x2 612 G1 Tablet with Power Keyboard
+SysId69=0x8154
+SysName69=HP ENVY 15
+SysId70=0x8155
+SysName70=HP ENVY 15
+SysId71=0x80D0
+SysName71=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId72=0x8084
+SysName72=HP EliteBook 725 G3
+SysId73=0x221D
+SysName73=HP EliteBook 725 G2
+SysId74=0x8055
+SysName74=HP EliteDesk 800G2;HP EliteDesk 800 PC
+SysId75=0x80E6
+SysName75=HP ENVY Notebook;HP ENVY m7 Notebook
+SysId76=0x80EE
+SysName76=HP ENVY Notebook;HP ENVY m7 Notebook
+SysId77=0x8061
+SysName77=HP ProDesk 400 PC
+SysId78=0x8133
+SysName78=;;HP 245 G4
+SysId79=0x80C7
+SysName79=;;HP 245 G4
+SysId80=0x80C8
+SysName80=;;HP 245 G4
+SysId81=0x8134
+SysName81=;HP 245 G4
+SysId82=0x80FC
+SysName82=HP Elite x2 1012 G2 Tablet;HP Elite x2 1012 G2 with Travel Keyboard;HP Elite x2 1012 G2 Advanced Keyboard
+SysId83=0x8146
+SysName83=HP Spectre x2 Detachable Ultrabook PC
+SysId84=0x80BA
+SysName84=HP ENVY Notebook
+SysId85=0x2009
+SysName85=HP Elite x2 1011 G1 Tablet;HP Elite x2 1011 G1 Tablet with Power Keyboard;HP Elite x2 1011 G1 Power Keyboard
+SysId86=0x22FB
+SysName86=HP EliteBook Revolve 810 G3 G1
+SysId87=0x80EF
+SysName87=HP ProBook 455 G3
+SysId88=0x80F0
+SysName88=HP ProBook 455 G3
+SysId89=0x2235
+SysName89=HP ProBook 455 G2
+SysId90=0x2236
+SysName90=HP ProBook 455 G2;HP ProBook 445 G2
+SysId91=0x2234
+SysName91=HP ProBook 445 G2
+SysId92=0x804E
+SysName92=HP Spectre x360 Convertible Ultrabook PC
+SysId93=0x804F
+SysName93=HP Spectre x360 Convertible Ultrabook PC
+SysId94=0x8035
+SysName94=HP Spectre x360 Convertible Ultrabook PC
+SysId95=0x802D
+SysName95=HP Spectre x360 Convertible Ultrabook PC
+SysId96=0x80E1
+SysName96=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId97=0x80E5
+SysName97=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId98=0x80E9
+SysName98=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId99=0x2249
+SysName99=HP ProBook 470 G2
+SysId100=0x224A
+SysName100=HP ProBook 470 G2;HP ProBook 450 G2;HP ProBook 440 G2
+SysId101=0x8179
+SysName101=
+SysId102=0x2248
+SysName102=HP ProBook 450 G2
+SysId103=0x8101
+SysName103=HP ProBook 450 G3
+SysId104=0x8100
+SysName104=HP ProBook 440 G3
+SysId105=0x8102
+SysName105=HP ProBook 470 G3
+SysId106=0x2247
+SysName106=HP ProBook 440 G2
+SysId107=0x229D
+SysName107=
+SysId108=0x80FF
+SysName108=HP ProBook 430 G3
+SysId109=0x2246
+SysName109=HP ProBook 430 G2
+SysId110=0x807C
+SysName110=HP EliteBook 820 G3
+SysId111=0x8054
+SysName111=HP EliteDesk 800 PC
+SysId112=0x80BF
+SysName112=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId113=0x80BD
+SysName113=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId114=0x80BE
+SysName114=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId115=0x80BB
+SysName115=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId116=0x80BC
+SysName116=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId117=0x8131
+SysName117=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId118=0x8132
+SysName118=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId119=0x80C0
+SysName119=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId120=0x225A
+SysName120=HP EliteBook 820 G2;HP EliteBook 720 G2
+SysId121=0x8053
+SysName121=HP EliteDesk 800 PC
+SysId122=0x8114
+SysName122=HP ENVY x360 Convertible
+SysId123=0x1992
+SysName123=HP ProBook 645 G1;HP ProBook 655 G1
+SysId124=0x2330
+SysName124=
+SysId125=0x8015
+SysName125=
+SysId126=0x807E
+SysName126=HP EliteBook 745 G3;HP EliteBook 755 G3
+SysId127=0x8137
+SysName127=;;HP 255 G4
+SysId128=0x80CB
+SysName128=;;HP 255 G4
+SysId129=0x80CC
+SysName129=;;HP 255 G4
+SysId130=0x8138
+SysName130=;HP 255 G4
+SysId131=0x805D
+SysName131=HP EliteDesk 600 PC
+SysId132=0x221C
+SysName132=HP EliteBook 745 G2;HP EliteBook 755 G2
+SysId133=0x80FE
+SysName133=HP ProBook 645 G2;HP ProBook 655 G2
+SysId134=0x2253
+SysName134=HP ZBook 15 G2 Mobile Workstation
+SysId135=0x80DF
+SysName135=HP ENVY Notebook
+SysId136=0x80D5
+SysName136=HP ZBook 15 G3 Mobile Workstation
+SysId137=0x805B
+SysName137=HP EliteDesk 705 PC
+SysId138=0x80D4
+SysName138=HP ZBook Studio G3 Mobile Workstation
+
+[Install Execution]
+Install=install.cmd
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and
+saving the file to a folder on your hard drive (make a note of the folder where
+the downloaded file is saved).
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/13/2015
+Copyright © 2015 HP Development Company, L.P. 

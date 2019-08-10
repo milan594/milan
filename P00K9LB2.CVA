@@ -1,0 +1,190 @@
+﻿[CVA File Information]
+CVATimeStamp=20150626T101944
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Intel Chipset Driver - TDC - Win10
+
+[US.Software Description]
+This package installs Intel Chipset drivers for supported models running a supported operating systems.
+
+[General]
+PN=P00K9L-B2H
+Version=10.1.1.7
+Revision=A
+Pass=1
+Type=SWOption
+Category=Driver - Chipset
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=Intel
+VendorVersion=10.1.1.7
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT64=OEM
+
+
+[Devices]
+PCI\VEN_8086&DEV_A123&SUBSYS_2B5C103C=Avatar1
+PCI\VEN_8086&DEV_A123&SUBSYS_2B5D103C=Avatar2
+PCI\VEN_8086&DEV_A123&SUBSYS_2B3E103C=Bulldozer
+PCI\VEN_8086&DEV_A123&SUBSYS_2B45103C=Crane
+PCI\VEN_8086&DEV_A123&SUBSYS_2B3D103C=Camry
+PCI\VEN_8086&DEV_A123&SUBSYS_2B4C103C=Superion
+PCI\VEN_8086&DEV_2292&SUBSYS_2B40103C=Vios
+PCI\VEN_8086&DEV_2292&SUBSYS_2B41103C=Yaris
+PCI\VEN_8086&DEV_2292&SUBSYS_2B5A103C=Icebreaker-I
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B3C103C=Altis-U/G
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B43103C=Crusher-U/G
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B12103C=Luma-U
+PCI\VEN_8086&DEV_8CA2&SUBSYS_2B16103C=Merlin/Cambion
+PCI\VEN_8086&DEV_9C22&SUBSYS_2B2B103C=Laurel2
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B2B103C=Laurel2
+PCI\VEN_8086&DEV_9C22&SUBSYS_2B21103C=Lavender-2G
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B21103C=Lavender-2G
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B16103C=Merlin
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B1B103C=Elm
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B1C103C=Blaster
+PCI\VEN_8086&DEV_9C22&SUBSYS_2B0D103C=Lavender-G/U
+PCI\VEN_8086&DEV_9C22&SUBSYS_2B0F103C=Lilium-G/U
+PCI\VEN_8086&DEV_9C22&SUBSYS_2B14103C=Broccoli
+PCI\VEN_8086&DEV_9C22&SUBSYS_2B04103C=Larkspaur
+PCI\VEN_8086&DEV_9C22&SUBSYS_2AFA103C=Laurel-G
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B0D103C=Lavender-G/U
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B0F103C=Lilium-G/U
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B14103C=Broccoli
+PCI\VEN_8086&DEV_8C22&SUBSYS_2B04103C=Larkspaur
+PCI\VEN_8086&DEV_8C22&SUBSYS_2AFA103C=Laurel-G
+PCI\VEN_8086&DEV_1E22&SUBSYS_2AF9103C=Lindesberg
+PCI\VEN_8086&DEV_1C22&SUBSYS_2B03103C=Kinmen-U
+PCI\VEN_8086&DEV_1C22&SUBSYS_2AEF103C=Kinmen
+PCI\VEN_8086&DEV_1C22&SUBSYS_2ADC103C=Lavaca3
+PCI\VEN_8086&DEV_1C22&SUBSYS_2AED103C=Leeds-G/U
+PCI\VEN_8086&DEV_1C22&SUBSYS_2AF1103C=LoomG
+PCI\VEN_8086&DEV_1C22&SUBSYS_2AE5103C=Larrybird
+[System Information]
+SysId01=0x2B45
+SysName01=HP Pavilion 22-a0xx All-in-One PC
+SysId02=0x2B45
+SysName02=HP Pavilion 22-a0xx All-in-One PC
+SysId03=0x2B43
+SysName03=HP Pavilion 22-a0xx All-in-One PC
+SysId04=0x2B43
+SysName04=HP Pavilion 22-a0xx All-in-One PC
+SysId05=0x2B3E
+SysName05=HP Envy 27-m0xx All-in-One PC
+SysId06=0x2B3E
+SysName06=HP Envy 27-m0xx All-in-One PC
+SysId07=0x2B3E
+SysName07=HP Envy 27-m0xx All-in-One PC
+SysId08=0x2B3E
+SysName08=HP Envy 27-m0xx All-in-One PC
+SysId09=0x2B3C
+SysName09=HP 20-r0xx All-in-One PC
+SysId10=0x
+SysName10=HP 20-r0xx All-in-One PC
+SysId11=0x2B40
+SysName11=HP 20-r0xx All-in-One PC
+SysId12=0x2B40
+SysName12=HP 20-r0xx All-in-One PC
+SysId13=0x2B41
+SysName13=HP 20-r0xx All-in-One PC
+SysId14=0x2B41
+SysName14=HP 20-r0xx All-in-One PC
+SysId15=0x
+SysName15=HP 20-r0xx All-in-One PC
+SysId16=0x2B3C
+SysName16=HP xxxx
+SysId17=0x2B45
+SysName17=HP Pavilion 23-q0xx All-in-One PC
+SysId18=0x2B45
+SysName18=HP Pavilion 23-q0xx All-in-One PC
+SysId19=0x2B45
+SysName19=HP Pavilion 23-q0xx All-in-One PC
+SysId20=0x2B43
+SysName20=HP Pavilion 23-q0xx All-in-One PC
+SysId21=0x2B43
+SysName21=HP Pavilion 23-q0xx All-in-One PC
+SysId22=0x2B43
+SysName22=HP Pavilion 23-q0xx All-in-One PC
+SysId23=0x2B45
+SysName23=HP Pavilion 23-q0xx All-in-One PC
+SysId24=0x2B45
+SysName24=HP Pavilion 23-q0xx All-in-One PC
+SysId25=0x2B45
+SysName25=HP Pavilion 23-q0xx All-in-One PC
+SysId26=0x2B43
+SysName26=HP Pavilion 23-q0xx All-in-One PC
+SysId27=0x2B43
+SysName27=HP Pavilion 23-q0xx All-in-One PC
+SysId28=0x2B43
+SysName28=HP Pavilion 23-q0xx All-in-One PC
+SysId29=0x2B3E
+SysName29=HP ENVY 24-m0xx All-in-One PC
+SysId30=0x2B3C
+SysName30=HP 23-r0xx All-in-One PC
+SysId31=0x
+SysName31=HP 23-r0xx All-in-One PC
+SysId32=0x2B40
+SysName32=HP 23-r0xx All-in-One PC
+SysId33=0x2B45
+SysName33=HP Pavilion 27-n0xx All-in-One PC
+SysId34=0x2B43
+SysName34=HP Pavilion 27-n0xx All-in-One PC
+SysId35=0x2B45
+SysName35=HP Pavilion 27-n0xx All-in-One PC
+SysId36=0x2B45
+SysName36=HP Pavilion 27-n0xx All-in-One PC
+SysId37=0x2B43
+SysName37=HP Pavilion 27-n0xx All-in-One PC
+SysId38=0x2B43
+SysName38=HP Pavilion 27-n0xx All-in-One PC
+SysId39=0x2B43
+SysName39=HP Pavilion 27-n0xx All-in-One PC
+SysId40=0x2B4C
+SysName40=HP Envy 34 All-in-One PC
+SysId41=0x2B4C
+SysName41=HP Envy 34 All-in-One PC
+SysId42=0x2B3C
+SysName42=HP 22-30xx All-in-One PC
+SysId43=0x2B40
+SysName43=HP 22-30xx All-in-One PC
+SysId44=0x2B40
+SysName44=HP 22-30xx All-in-One PC
+SysId45=0x2B41
+SysName45=HP 22-30xx All-in-One PC
+SysId46=0x2B3C
+SysName46=HP 22-30xx All-in-One PC
+SysId47=0x
+SysName47=HP 22-30xx All-in-One PC
+
+[Install Execution]
+Install=
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and
+saving the file to a folder on your hard drive (make a note of the folder where
+the downloaded file is saved).
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 06/26/2015
+Copyright © 2015 HP Development Company, L.P. 

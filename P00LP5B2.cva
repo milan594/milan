@@ -1,0 +1,321 @@
+﻿[CVA File Information]
+CVATimeStamp=20150717T020738
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Broadcom 802.11b/g/n WLAN Driver for Windows 10
+
+[US.Software Description]
+The package contains Broadcom Wireless LAN driver. It is required to enable integrated Broadcom Wireless LAN adapter.
+
+[General]
+PN=P00LP5-B2E
+Version=7.35.275.2
+Revision=B
+Pass=2
+Type=Driver
+Category=Driver - Network
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=Broadcom
+VendorVersion=7.35.275.2
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+PACKAGEVERSION.DLL=<PROGRAMFILESDIR>\BROADCOM\BROADCOM 802.11 Network Adapter,0X0384,0X02BF,0X0002,0X0191,WT32
+PACKAGEVERSION.DLL=<PROGRAMFILESDIR>\BROADCOM\BROADCOM 802.11 Network Adapter,0X0384,0X02BF,0X0002,0X0191,WT64
+PACKAGEVERSION.DLL=<PROGRAMFILESDIR>\BROADCOM\BROADCOM 802.11 Network Adapter,0X0384,0X02BF,0X0002,0X0191,WTIOT32
+PACKAGEVERSION.DLL=<PROGRAMFILESDIR>\BROADCOM\BROADCOM 802.11 Network Adapter,0X0384,0X02BF,0X0002,0X0191,WTIOT64
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+WTIOT32=OEM
+WTIOT64=OEM
+
+
+[Devices]
+PCI\VEN_14E4&DEV_4365="Broadcom BCM43142 802.11b/g/n 1x1 Wi-Fi Adapter"
+PCI\VEN_14E4&DEV_4365="Broadcom BCM43142 802.11b/g/n 1x1 Wi-Fi M.2 Adapter"
+[Devices_INFPath]
+WT32_INFPath=HP_DriverOnly
+WT64_INFPath=HP_DriverOnly
+[System Information]
+SysId01=0x22A9
+SysName01=HP Pavilion Beats Special Edition
+SysId02=0x80A0
+SysName02=
+SysId03=0x80A3
+SysName03=
+SysId04=0x80A6
+SysName04=
+SysId05=0x812F
+SysName05=
+SysId06=0x8130
+SysName06=
+SysId07=0x8093
+SysName07=
+SysId08=0x8096
+SysName08=
+SysId09=0x8099
+SysName09=
+SysId10=0x809C
+SysName10=
+SysId11=0x809E
+SysName11=
+SysId12=0x80A1
+SysName12=
+SysId13=0x80A4
+SysName13=
+SysId14=0x80A7
+SysName14=
+SysId15=0x80A9
+SysName15=;HP Pavilion Gaming
+SysId16=0x8119
+SysName16=
+SysId17=0x80A2
+SysName17=
+SysId18=0x80A5
+SysName18=
+SysId19=0x80A8
+SysName19=
+SysId20=0x811A
+SysName20=
+SysId21=0x8135
+SysName21=HP Notebook 15g;HP Notebook 15q
+SysId22=0x8136
+SysName22=HP Notebook 15g;HP Notebook 15q
+SysId23=0x80C1
+SysName23=HP Notebook 15g;HP Notebook 15q
+SysId24=0x80C2
+SysName24=HP Notebook 15g;HP Notebook 15q
+SysId25=0x80C5
+SysName25=HP Notebook 15g;HP Notebook 15q
+SysId26=0x80C6
+SysName26=HP Notebook 15g;HP Notebook 15q
+SysId27=0x80C3
+SysName27=HP Notebook 15g;HP Notebook 15q
+SysId28=0x80C4
+SysName28=HP Notebook 15g;HP Notebook 15q
+SysId29=0x80CD
+SysName29=HP Notebook 15g;HP Notebook 15q
+SysId30=0x80CF
+SysName30=HP Notebook 15g;HP Notebook 15q;HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId31=0x221B
+SysName31=;HP Pro x2 612 G1 Tablet;HP Pro x2 612 G1 Tablet with Power Keyboard;HP Pro x2 612 G1 Power Keyboard
+SysId32=0x80D0
+SysName32=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId33=0x80E0
+SysName33=HP ENVY Notebook
+SysId34=0x80E4
+SysName34=HP ENVY Notebook
+SysId35=0x80EC
+SysName35=HP ENVY Notebook
+SysId36=0x8133
+SysName36=
+SysId37=0x80C7
+SysName37=
+SysId38=0x80C8
+SysName38=
+SysId39=0x8134
+SysName39=
+SysId40=0x80BA
+SysName40=HP ENVY Notebook
+SysId41=0x2235
+SysName41=HP ProBook 455 G2
+SysId42=0x2236
+SysName42=HP ProBook 455 G2;HP ProBook 445 G2
+SysId43=0x2234
+SysName43=HP ProBook 445 G2
+SysId44=0x80E1
+SysName44=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId45=0x80E5
+SysName45=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId46=0x80E9
+SysName46=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId47=0x2249
+SysName47=HP ProBook 470 G2
+SysId48=0x224A
+SysName48=HP ProBook 470 G2;HP ProBook 450 G2;HP ProBook 440 G2
+SysId49=0x2248
+SysName49=HP ProBook 450 G2
+SysId50=0x2247
+SysName50=HP ProBook 440 G2
+SysId51=0x2246
+SysName51=HP ProBook 430 G2
+SysId52=0x80BF
+SysName52=HP Notebook 14g;HP Notebook 14q
+SysId53=0x80BB
+SysName53=HP Notebook 14g;HP Notebook 14q
+SysId54=0x80BC
+SysName54=HP Notebook 14g;HP Notebook 14q
+SysId55=0x8131
+SysName55=HP Notebook 14g;HP Notebook 14q
+SysId56=0x8132
+SysName56=HP Notebook 14g;HP Notebook 14q
+SysId57=0x80C0
+SysName57=HP Notebook 14g;HP Notebook 14q
+SysId58=0x80BD
+SysName58=HP Notebook 14g;HP Notebook 14q
+SysId59=0x80BE
+SysName59=HP Notebook 14g;HP Notebook 14q
+SysId60=0x8137
+SysName60=
+SysId61=0x80CB
+SysName61=
+SysId62=0x80CC
+SysName62=
+SysId63=0x8138
+SysName63=
+SysId64=0x80DF
+SysName64=HP ENVY Notebook
+SysId65=0x2B42
+SysName65=HP Pavilion 22-a0xx All-in-One PC
+SysId66=0x2B42
+SysName66=HP Pavilion 22-a0xx All-in-One PC
+SysId67=0x2B44
+SysName67=HP Pavilion 22-a0xx All-in-One PC
+SysId68=0x2B45
+SysName68=HP Pavilion 22-a0xx All-in-One PC
+SysId69=0x2B45
+SysName69=HP Pavilion 22-a0xx All-in-One PC
+SysId70=0x2B43
+SysName70=HP Pavilion 22-a0xx All-in-One PC
+SysId71=0x2B43
+SysName71=HP Pavilion 22-a0xx All-in-One PC
+SysId72=0x2B3E
+SysName72=HP Envy 27-m0xx All-in-One PC
+SysId73=0x2B3E
+SysName73=HP Envy 27-m0xx All-in-One PC
+SysId74=0x2B3E
+SysName74=HP Envy 27-m0xx All-in-One PC
+SysId75=0x2B3E
+SysName75=HP Envy 27-m0xx All-in-One PC
+SysId76=0x2B3C
+SysName76=HP 20-r0xx All-in-One PC
+SysId77=0x
+SysName77=HP 20-r0xx All-in-One PC
+SysId78=0x2B3B
+SysName78=HP 20-r0xx All-in-One PC
+SysId79=0x2B56
+SysName79=HP 20-r0xx All-in-One PC
+SysId80=0x2B40
+SysName80=HP 20-r0xx All-in-One PC
+SysId81=0x2B40
+SysName81=HP 20-r0xx All-in-One PC
+SysId82=0x2B41
+SysName82=HP 20-r0xx All-in-One PC
+SysId83=0x2B41
+SysName83=HP 20-r0xx All-in-One PC
+SysId84=0x2B42
+SysName84=HP Pavilion 23-q0xx All-in-One PC
+SysId85=0x2B45
+SysName85=HP Pavilion 23-q0xx All-in-One PC
+SysId86=0x2B45
+SysName86=HP Pavilion 23-q0xx All-in-One PC
+SysId87=0x2B45
+SysName87=HP Pavilion 23-q0xx All-in-One PC
+SysId88=0x2B43
+SysName88=HP Pavilion 23-q0xx All-in-One PC
+SysId89=0x2B43
+SysName89=HP Pavilion 23-q0xx All-in-One PC
+SysId90=0x2B43
+SysName90=HP Pavilion 23-q0xx All-in-One PC
+SysId91=0x
+SysName91=HP Pavilion 23-q0xx All-in-One PC
+SysId92=0x2B42
+SysName92=HP Pavilion 23-q0xx All-in-One PC
+SysId93=0x2B42
+SysName93=HP Pavilion 23-q0xx All-in-One PC
+SysId94=0x2B44
+SysName94=HP Pavilion 23-q0xx All-in-One PC
+SysId95=0x2B44
+SysName95=HP Pav xxxx PC
+SysId96=0x2B45
+SysName96=HP Pavilion 23-q0xx All-in-One PC
+SysId97=0x2B45
+SysName97=HP Pavilion 23-q0xx All-in-One PC
+SysId98=0x2B45
+SysName98=HP Pavilion 23-q0xx All-in-One PC
+SysId99=0x2B43
+SysName99=HP Pavilion 23-q0xx All-in-One PC
+SysId100=0x2B43
+SysName100=HP Pavilion 23-q0xx All-in-One PC
+SysId101=0x2B43
+SysName101=HP Pavilion 23-q0xx All-in-One PC
+SysId102=0x2B3E
+SysName102=HP ENVY 24-m0xx All-in-One PC
+SysId103=0x2B3E
+SysName103=HP ENVY 24-m0xx All-in-One PC
+SysId104=0x2B3C
+SysName104=HP 23-r0xx All-in-One PC
+SysId105=0x
+SysName105=HP 23-r0xx All-in-One PC
+SysId106=0x2B3F
+SysName106=HP 23-r0xx All-in-One PC
+SysId107=0x2B3B
+SysName107=HP 23-r0xx All-in-One PC
+SysId108=0x
+SysName108=HP 23-r0xx All-in-One PC
+SysId109=0x2B3B
+SysName109=HP 23-r0xx All-in-One PC
+SysId110=0x2B3B
+SysName110=HP 23-r0xx All-in-One PC
+SysId111=0x2B59
+SysName111=HP 23-r0xx All-in-One PC
+SysId112=0x2B40
+SysName112=HP 23-r0xx All-in-One PC
+SysId113=0x2B45
+SysName113=HP Pavilion 27-n0xx All-in-One PC
+SysId114=0x2B43
+SysName114=HP Pavilion 27-n0xx All-in-One PC
+SysId115=0x2B45
+SysName115=HP Pavilion 27-n0xx All-in-One PC
+SysId116=0x2B45
+SysName116=HP Pavilion 27-n0xx All-in-One PC
+SysId117=0x2B43
+SysName117=HP Pavilion 27-n0xx All-in-One PC
+SysId118=0x2B43
+SysName118=HP Pavilion 27-n0xx All-in-One PC
+SysId119=0x2B43
+SysName119=HP Pavilion 27-n0xx All-in-One PC
+SysId120=0x2B3C
+SysName120=HP 22-30xx All-in-One PC
+SysId121=0x2B40
+SysName121=HP 22-30xx All-in-One PC
+SysId122=0x2B40
+SysName122=HP 22-30xx All-in-One PC
+
+[Install Execution]
+Install=Setup.exe
+SilentInstall="install.cmd"
+
+[ReturnCode]
+0:SUCCESS:NOREBOOT= WLAN Driver installed successfully
+100:CANCEL:NOREBOOT= Setup has been canceled by the user
+103:FAILURE:NOREBOOT= Failed to install driver
+107:CANCEL:NOREBOOT= User does not have administrator privileges to run setup
+108:FAILURE:NOREBOOT= Error getting operation system information
+109:CANCEL:NOREBOOT= unsupported operating system
+114:FAILURE:NOREBOOT= Failed to install EAP plugins
+118:CANCEL:NOREBOOT= HW not found
+
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=1
+
+[Private_SoftpaqInstall]
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/17/2015
+Copyright © 2015 HP Development Company, L.P. 

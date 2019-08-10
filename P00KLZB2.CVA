@@ -1,0 +1,860 @@
+﻿[CVA File Information]
+CVATimeStamp=20150720T021014
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Essential System Updates for Microsoft Windows 10
+AR=تحديثات ضرورية لنظام مايكروسوفت ويندوز 10
+BR=Atualizações Essenciais de Sistema para o Microsoft Windows 10
+BG=Основни актуализации на системата за Microsoft Windows 10
+CH=Microsoft Windows 10 重要系统更新
+HR=Važno ažuriranje sustava za Microsoft Windows 10
+CS=Důležité aktualizace pro systém Microsoft Windows 10
+DK=Vigtige systemopdateringer til Microsoft Windows 10
+NL=Belangrijke systeemupdates voor Microsoft Windows 10
+EI=Hädavajalikud süsteemivärskendused Microsoft Windows 10-le
+FI=Microsoft Windows 10:n tärkeät järjestelmäpäivitykset
+FR=Mises à jour importantes pour Microsoft Windows 10
+GR=Wichtige Systemupdates für Microsoft Windows 10
+GK=Σημαντικές ενημερώσεις συστήματος για Microsoft Windows 10
+IL=עדכוני מערכת חיוניים עבור Microsoft Windows 10
+TZ=Microsoft Windows 10 的基本系統更新
+HU=Fontos rendszerfrissítések a Microsoft Windows 10 operációs ren
+IT=Aggiornamenti di sistema obbligatori per Microsoft Windows 10
+JP=Microsoft Windows 10用の重要なシステム アップデート
+KR=Microsoft Windows 10용 필수 시스템 업데이트
+LV=Būtiski atjauninājumi sistēmai Microsoft Windows 10
+LT=Svarbūs sistemos „Microsoft Windows 10“ naujinimai
+NO=Viktige systemoppdateringer for Microsoft Windows 10
+PL=Niezbędne aktualizacje dla systemu Microsoft Windows 10
+PT=Actualizações Essenciais de Sistema para o Microsoft Windows 10
+RO=Actualizări esenţiale pentru sistem pentru Microsoft Windows 10
+RU=Базовые обновления системы для Microsoft Windows 10
+SR=Neophodna ažuriranja sistema za Microsoft Windows 10
+SK=Základné systémové aktualizácie pre systém Microsoft Windows 10
+SL=Bistvene posodobitve operacijskega sistema Microsoft Windows 10
+SP=Actualizaciones esenciales del sistema para Microsoft Windows 10
+SE=Viktiga systemuppdateringar för Microsoft Windows 10
+TW=Microsoft Windows 10 的基本系統更新
+TH=อัพเดตระบบที่สำคัญสำหรับ Microsoft Windows 10
+TR=Microsoft Windows 10 için Temel Sistem Güncelleştirmeleri
+ID=Pemutakhiran Sistem Penting untuk Microsoft Windows 10
+
+[US.Software Description]
+This update installs Microsoft fixes and enhancements for Windows 10 to help your computer run better.
+
+[AR.Software Description]
+يقوم هذا التحديث بتثبيت بعض التصحيحات والتحسينات من مايكروسوفت لبرنامج ويندوز 10 ليساعد جهاز الكمبيوتر على العمل بطريقة أفضل.
+
+[BR.Software Description]
+Esta atualização instala correções e melhorias da Microsoft para o Windows 10 de forma a aprimorar o funcionamento do seu computador.
+
+[BG.Software Description]
+Тази актуализация инсталира корекции и подобрения на Microsoft за Windows 10, за да може вашият компютър да работи по-добре.
+
+[CH.Software Description]
+本更新将为 Windows 10 安装 Microsoft 修补程序和增强组件，从而使您的计算机运行得更好。
+
+[HR.Software Description]
+Ovo ažuriranje instalira Microsoftove popravke i poboljšanja za Windows 10 koja pomažu da vam računalo bolje radi.
+
+[CS.Software Description]
+Tato aktualizace nainstaluje opravy a vylepšení vydané společností Microsoft pro systém Windows 10, aby váš počítač pracoval lépe.
+
+[DK.Software Description]
+Denne opdatering installerer Microsofts rettelser og forbedringer til Windows 10, som hjælper din computer med at køre bedre.
+
+[NL.Software Description]
+Met deze update installeert u Microsoft-fixes en -verbeteringen voor Windows 10 die uw computer beter laten functioneren.
+
+[EI.Software Description]
+Selle värskendusega installitakse Microsofti parandused ja Windows 10 täiustused, et aidata teie arvutil paremini töötada.
+
+[FI.Software Description]
+Tämä päivitys asentaa Microsoft Windows 10:een liittyviä korjauksia ja parannuksia, jotka tehostavat tietokoneen toimintaa.
+
+[FR.Software Description]
+Cette mise à jour installe des correctifs et des améliorations Microsoft pour Windows 10 permettant d'optimer le fonctionnement de votre ordinateur.
+
+[GR.Software Description]
+Bei diesem Update werden Microsoft Fehlerbehebungen und Erweiterungen für Windows 10 installiert, damit Ihr Computer optimal funktioniert.
+
+[GK.Software Description]
+Αυτή η ενημέρωση εγκαθιστά διορθώσεις και βελτιώσεις της Microsoft για τα Windows 10 που συμβάλλουν στην καλύτερη λειτουργία του υπολογιστή σας.
+
+[IL.Software Description]
+עדכון זה מתקין תיקונים ושיפורים של Microsoft עבור Windows 10, שנועדו לשפר את פעולת המחשב שלך.
+
+[TZ.Software Description]
+此更新會安裝 Windows 10 的 Microsoft 修正檔以及增強功能，讓您的電腦運作更順暢。
+
+[HU.Software Description]
+Ez a frissítés telepíti a Microsoft által a Windows 10 operációs rendszerhez készített javításokat és továbbfejlesztéseket, melyekkel a számítógép jobban működhet.
+
+[IT.Software Description]
+Con questo aggiornamento vengono installate correzioni e funzionalità aggiuntive per Microsoft Windows 10 rivolte a migliorare le prestazioni del computer in uso.
+
+[JP.Software Description]
+このアップデートを使用すると、Microsoft社からWindows 10用に提供されている修正や機能強化をインストールできます。これによって、お使いのコンピューターのパフォーマンスが向上します。
+
+[KR.Software Description]
+이 업데이트를 통해 Windows 10에 관한 Microsoft 수정 사항 및 개선된 기능을 설치하여 컴퓨터 성능을 향상시킬 수 있습니다.
+
+[LV.Software Description]
+Ar šo atjauninājumu tiek instalēti Microsoft labojumi un uzlabojumi sistēmai Windows 10, lai jūsu dators darbotos labāk.
+
+[LT.Software Description]
+Šis naujinimas įdiegia „Microsoft“ taisymus ir sistemos „Windows 10“ patobulinimus, kad kompiuteris geriau veiktų.
+
+[NO.Software Description]
+Denne oppdateringen installerer Microsofts rettelser og forbedringer av Windows 10 som øker ytelsen til datamaskinen din.
+
+[PL.Software Description]
+Podczas aktualizacji instalowane są poprawki i ulepszenia firmy Microsoft dla systemu Windows 10, które sprawiają, że komputer działa sprawniej.
+
+[PT.Software Description]
+Esta actualização instala correções e melhoramentos para o Windows 10 para ajudar o seu computador a ter um melhor desempelho.
+
+[RO.Software Description]
+Această actualizare instalează reparații și îmbunătățiri de la Microsoft pentru Windows 10 care vor face să funcţioneze mai bine computerul.
+
+[RU.Software Description]
+Это обновление устанавливает исправления и расширения возможностей Windows 10 от Microsoft в целях повышения производительности компьютера.
+
+[SR.Software Description]
+Ovo ažuriranje instalira Microsoft popravke i poboljšanja za Windows 10 da bi vaš računar bolje radio.
+
+[SK.Software Description]
+Počas tejto aktualizácie sa nainštalujú opravy a vylepšenia od spoločnosti Microsoft pre systém Windows 10, ktoré umožnia lepší výkon vášho počítača.
+
+[SL.Software Description]
+S to posodobitvijo namestite popravke Microsoft in izboljšave za Windows 10, s čimer zagotovite boljše delovanje svojega računalnika.
+
+[SP.Software Description]
+Esta actualización instala correcciones y mejoras de Microsoft para Windows 10 a fin de ayudar a que su equipo funcione mejor.
+
+[SE.Software Description]
+Med den här uppdateringen installeras korrigeringar och förbättringar från Microsoft för Windows 10 så att din dator fungerar optimalt.
+
+[TW.Software Description]
+此更新會安裝 Windows 10 的 Microsoft 修正檔以及增強功能，讓您的電腦運作更順暢。
+
+[TH.Software Description]
+การอัพเดตนี้เป็นการแก้ไขจุดบกพร่องและการปรับปรุงเพิ่มเติมของ Microsoft สำหรับ Windows 10 เพื่อให้คอมพิวเตอร์ของคุณทำงานได้ดียิ่งขึ้น
+
+[TR.Software Description]
+Bu güncelleştirme, bilgisayarınızın daha iyi çalışmasını sağlamak amacıyla Windows 10 için Microsoft düzeltmeleri ve geliştirmeleri yükler.
+
+[ID.Software Description]
+Pemutakhiran ini menginstal perbaikan dan peningkatan untuk Windows 10 agar komputer Anda bekerja lebih baik.
+
+[General]
+PN=P00KLZ-B2C
+Version=1.1
+Revision=1
+Pass=1
+Type=Application
+Category=OS - QFE
+TargetPartition=
+SystemMustBeRebooted=1
+VendorName=HP
+VendorVersion=1.1.1
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+HPESU.DLL=<ProgramFilesDir>\HP\HP ESU for Microsoft Windows 10,0x0001,0x0001,0x0001,0x0001,WT32
+HPESU.DLL=<ProgramFilesDir>\HP\HP ESU for Microsoft Windows 10,0x0001,0x0001,0x0001,0x0001,WTIOT32
+HPESU.DLL=<PROGRAMFILESDIRX86>\HP\HP ESU for Microsoft Windows 10,0x0001,0x0001,0x0001,0x0001,WT64
+HPESU.DLL=<PROGRAMFILESDIRX86>\HP\HP ESU for Microsoft Windows 10,0x0001,0x0001,0x0001,0x0001,WTIOT64
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+WTIOT32=OEM
+WTIOT64=OEM
+
+
+[System Information]
+SysId01=0x2255
+SysName01=HP ZBook 17 G2 Mobile Workstation
+SysId02=0x2157
+SysName02=HP ElitePad 1000 G2
+SysId03=0x80D6
+SysName03=HP ZBook 17 G3 Mobile Workstation
+SysId04=0x18DF
+SysName04=HP EliteBook Folio 9470m
+SysId05=0x22DA
+SysName05=HP EliteBook Folio 9480m
+SysId06=0x2270
+SysName06=HP EliteBook 1040 G2
+SysId07=0x2271
+SysName07=HP EliteBook Folio 1020 G1;HP EliteBook Folio 1020 G1 Special Edition
+SysId08=0x80FA
+SysName08=HP EliteBook Folio 1040 G3
+SysId09=0x80FB
+SysName09=HP EliteBook Folio 1020 G2;HP EliteBook Folio 1020 G2 Special Edition
+SysId10=0x213E
+SysName10=HP EliteBook Folio 1040 G1
+SysId11=0x18D4
+SysName11=HP 3125
+SysId12=0x8079
+SysName12=HP EliteBook 840 G3;HP EliteBook 740 G3;HP EliteBook 850 G3;HP EliteBook 750 G3;HP ZBook 15u G3 Mobile Workstation
+SysId13=0x179B
+SysName13=HP ProBook 6470b;HP EliteBook 8470p;HP EliteBook 8470w Mobile Workstation
+SysId14=0x179C
+SysName14=HP ProBook 6470b;HP EliteBook 8470p;HP EliteBook 8470w Mobile Workstation
+SysId15=0x2216
+SysName15=HP EliteBook 840 G2;HP EliteBook 740 G2;HP EliteBook 850 G2;HP EliteBook 750 G2;HP ZBook 14 G2 Mobile Workstation;HP ZBook 15u G2 Mobile Workstation
+SysId16=0x80FD
+SysName16=HP ProBook 640 G2;HP ProBook 650 G2
+SysId17=0x8125
+SysName17=HP ProBook 650 G2
+SysId18=0x198F
+SysName18=HP EliteBook 840 G1;HP EliteBook 740 G1;HP ZBook 14 Mobile Workstation;HP EliteBook 850 G1;HP EliteBook 750 G1
+SysId19=0x1993
+SysName19=HP ProBook 640 G1;HP ProBook 650 G1
+SysId20=0x2101
+SysName20=HP ProBook 640 G1;HP ProBook 650 G1
+SysId21=0x1994
+SysName21=HP ProBook 640 G1
+SysId22=0x2102
+SysName22=HP ProBook 640 G1
+SysId23=0x808F
+SysName23=HP ProBook 11 G1 Education Edition
+SysId24=0x8042
+SysName24=HP Pro Tablet 608 G1
+SysId25=0x8170
+SysName25=HP EliteBook Folio 1020 G3
+SysId26=0x8046
+SysName26=HP Pro Tablet 10 EE G1
+SysId27=0x22C0
+SysName27=HP 345 G2
+SysId28=0x22C2
+SysName28=HP 355 G2
+SysId29=0x22C1
+SysName29=HP 355 G2
+SysId30=0x221B
+SysName30=HP Pro x2 612 G1 Power Keyboard;HP Pro x2 612 G1 Tablet;HP Pro x2 612 G1 Tablet with Power Keyboard
+SysId31=0x2178
+SysName31=HP 215 G1 Ultrabook PC
+SysId32=0x2257
+SysName32=HP 210 G1
+SysId33=0x8084
+SysName33=HP EliteBook 725 G3
+SysId34=0x221D
+SysName34=HP EliteBook 725 G2
+SysId35=0x80FC
+SysName35=HP Elite x2 1012 G1 Tablet;HP Elite x2 1012 G1 with Travel Keyboard;HP Elite x2 1012 G1 Advanced Keyboard
+SysId36=0x2009
+SysName36=HP Elite x2 1011 G1 Tablet;HP Elite x2 1011 G1 Tablet with Power Keyboard;HP Elite x2 1011 G1 Power Keyboard
+SysId37=0x21B3
+SysName37=HP EliteBook Revolve 810 G2 G1
+SysId38=0x8048
+SysName38=HP Pro Tablet 408 G1
+SysId39=0x8049
+SysName39=HP Pro Tablet 408 G1
+SysId40=0x22FB
+SysName40=HP EliteBook Revolve 810 G3 G1
+SysId41=0x80EF
+SysName41=HP ProBook 455 G3
+SysId42=0x80F0
+SysName42=HP ProBook 455 G3
+SysId43=0x2235
+SysName43=HP ProBook 455 G2
+SysId44=0x2236
+SysName44=HP ProBook 455 G2;HP ProBook 445 G2
+SysId45=0x2234
+SysName45=HP ProBook 445 G2
+SysId46=0x2249
+SysName46=HP ProBook 470 G2
+SysId47=0x224A
+SysName47=HP ProBook 470 G2;HP ProBook 450 G2;HP ProBook 440 G2
+SysId48=0x2248
+SysName48=HP ProBook 450 G2
+SysId49=0x8101
+SysName49=HP ProBook 450 G3
+SysId50=0x8100
+SysName50=HP ProBook 440 G3
+SysId51=0x8102
+SysName51=HP ProBook 470 G3
+SysId52=0x2247
+SysName52=HP ProBook 440 G2
+SysId53=0x80FF
+SysName53=HP ProBook 430 G3
+SysId54=0x2246
+SysName54=HP ProBook 430 G2
+SysId55=0x807C
+SysName55=HP EliteBook 820 G3
+SysId56=0x225A
+SysName56=HP EliteBook 820 G2;HP EliteBook 720 G2
+SysId57=0x8053
+SysName57=HP EliteDesk 800 PC
+SysId58=0x1991
+SysName58=HP EliteBook 820 G1;HP EliteBook 720 G1
+SysId59=0x1992
+SysName59=HP ProBook 645 G1;HP ProBook 655 G1
+SysId60=0x807E
+SysName60=HP EliteBook 745 G3;HP EliteBook 755 G3
+SysId61=0x221C
+SysName61=HP EliteBook 745 G2;HP EliteBook 755 G2
+SysId62=0x80FE
+SysName62=HP ProBook 645 G2;HP ProBook 655 G2
+SysId63=0x2253
+SysName63=HP ZBook 15 G2 Mobile Workstation
+SysId64=0x80D5
+SysName64=HP ZBook 15 G3 Mobile Workstation
+SysId65=0x80D4
+SysName65=HP ZBook Studio G3 Mobile Workstation
+SysId66=0x802F
+SysName66=HP Z240 Tower BR Workstation
+SysId67=0x802F
+SysName67=HP Z240 Tower Workstation
+SysId68=0x802E
+SysName68=HP Z240 SFF BR Workstation
+SysId69=0x802E
+SysName69=HP Z240 SFF Workstation
+SysId70=0x2B42
+SysName70=HP Pavilion 22-a0xx All-in-One PC
+SysId71=0x2B42
+SysName71=HP Pavilion 22-a0xx All-in-One PC
+SysId72=0x2B44
+SysName72=HP Pavilion 22-a0xx All-in-One PC
+SysId73=0x2B45
+SysName73=HP Pavilion 22-a0xx All-in-One PC
+SysId74=0x2B45
+SysName74=HP Pavilion 22-a0xx All-in-One PC
+SysId75=0x2B43
+SysName75=HP Pavilion 22-a0xx All-in-One PC
+SysId76=0x2B43
+SysName76=HP Pavilion 22-a0xx All-in-One PC
+SysId77=0x
+SysName77=BU IDS i5-xxxx 17 G3
+SysId78=0x
+SysName78=BU IDS i7-QC2 17 G3
+SysId79=0x
+SysName79=BU IDS i7-T4 17 G3
+SysId80=0x
+SysName80=BU IDS Xeon Z2 17 G3
+SysId81=0x
+SysName81=BU IDS Xeon Z3+ 17 G3
+SysId82=0x
+SysName82=BU RCTO i5-xxxx 17 G3
+SysId83=0x
+SysName83=BU RCTO i7-QC2 17 G3
+SysId84=0x
+SysName84=BU RCTO i7-T4 17 G3
+SysId85=0x
+SysName85=BU RCTO Xeon Z2 17 G3
+SysId86=0x
+SysName86=BU RCTO Xeon Z3+ 17 G3
+SysId87=0x2B36
+SysName87=HP ENVY 750-0xx Desktop PC
+SysId88=0x2B2C
+SysName88=HP ENVY 750-0xx Desktop PC
+SysId89=0x2B47
+SysName89=HP ENVY 750-0xx Desktop PC
+SysId90=0x2B35
+SysName90=HP ENVY 750-0xx Desktop PC
+SysId91=0x2B52
+SysName91=HP ENVY 750-0xx Desktop PC
+SysId92=0x2B4B
+SysName92=HP ENVY 750-0xx Desktop PC
+SysId93=0x805F
+SysName93=HP ProDesk 490 G3 MT Business PC
+SysId94=0x805F
+SysName94=HP ProDesk 498 G3 MT Business PC
+SysId95=0x805A
+SysName95=HP EliteDesk 705 G2 MT Business PC
+SysId96=0x805A
+SysName96=HP EliteDesk 705 G2 SFF Business PC
+SysId97=0x805C
+SysName97=HP EliteOne 705 G2 23-in Non-Touch All-in-One PC
+SysId98=0x805C
+SysName98=HP EliteOne 705 G2 23-in Touch All-in-One PC
+SysId99=0x805B
+SysName99=HP EliteDesk 705 G2 DM Business PC
+SysId100=0x805B
+SysName100=HP EliteDesk 705 G2 DM Business PC
+SysId101=0x805B
+SysName101=HP EliteDesk 705 G2 DM Business PC
+SysId102=0x805B
+SysName102=HP EliteDesk 705 G2 DM Business PC
+SysId103=0x805B
+SysName103=HP EliteDesk 705 G2 DM Business PC
+SysId104=0x
+SysName104=BU IDS UMA CelN2840 fHDD/ODD eDP 15-f2
+SysId105=0x
+SysName105=BU IDS UMA CelN2940 fHDD/ODD eDP 15-f2
+SysId106=0x
+SysName106=BU IDS UMA CelN3050 fHDD/ODD eDP 15-f2
+SysId107=0x
+SysName107=BU IDS UMA CelN3150 fHDD/ODD eDP 15-f2
+SysId108=0x
+SysName108=BU IDS UMA i3-4005U fHDD/ODD eDP 15-f2
+SysId109=0x
+SysName109=BU IDS UMA PentN3540 fHDD/ODD eDP 15-f2
+SysId110=0x
+SysName110=BU IDS UMA PentN3700 fHDD/ODD eDP 15-f2
+SysId111=0x2B3E
+SysName111=HP Envy 27-m0xx All-in-One PC
+SysId112=0x2B3E
+SysName112=HP Envy 27-m0xx All-in-One PC
+SysId113=0x2B3E
+SysName113=HP Envy 27-m0xx All-in-One PC
+SysId114=0x2B3E
+SysName114=HP Envy 27-m0xx All-in-One PC
+SysId115=0x8055
+SysName115=HP EliteDesk 800 G2 Retail System
+SysId116=0x8058
+SysName116=HP EliteOne 800 G2 23-in Touch All-in-One Retail
+SysId117=0x8060
+SysName117=HP ProDesk 480 G3 MT Business PC
+SysId118=0x8063
+SysName118=HP ProOne 400 G2 20-in Non-Touch All-in-One PC
+SysId119=0x8063
+SysName119=HP ProOne 400 G2 20-in Touch All-in-One PC
+SysId120=0x8058
+SysName120=HP EliteOne 800 G2 23-in Non-Touch All-in-One PC
+SysId121=0x8058
+SysName121=HP EliteOne 800 G2 23-in Touch All-in-One PC
+SysId122=0x8056
+SysName122=HP EliteDesk 800 G2 DM 65W Business PC
+SysId123=0x805E
+SysName123=HP ProOne 600 G2 21.5-in Non-Touch All-in-One PC
+SysId124=0x805E
+SysName124=HP ProOne 600 G2 21.5-in Touch All-in-One PC
+SysId125=0x8062
+SysName125=HP ProDesk 400 G3 SFF Business PC
+SysId126=0x8057
+SysName126=HP EliteOne 800 G2 23-in Non-Touch GPU All-in-One
+SysId127=0x8057
+SysName127=HP EliteOne 800 G2 23-in Touch GPU All-in-One PC
+SysId128=0x8169
+SysName128=HP ProDesk 600 G2 DM Business PC
+SysId129=0x8105
+SysName129=HP ProDesk 400 G2.5 SFF Business PC
+SysId130=0x8055
+SysName130=HP EliteDesk 800 G2 DM 35W Business PC
+SysId131=0x8054
+SysName131=HP EliteDesk 800 G2 SFF Business PC
+SysId132=0x8053
+SysName132=HP EliteDesk 880 G2 TWR Business PC
+SysId133=0x8053
+SysName133=HP EliteDesk 800 G2 TWR Business PC
+SysId134=0x805D
+SysName134=HP ProDesk 680 G2 MT Business PC
+SysId135=0x805D
+SysName135=HP ProDesk 600 G2 MT Business PC
+SysId136=0x805D
+SysName136=HP ProDesk 600 G2 SFF Business PC
+SysId137=0x8059
+SysName137=HP EliteOne 800 G2 AiO 21.5 NT Business PC
+SysId138=0x8059
+SysName138=HP EliteOne 800 G2 AiO 21.5 Touch Business PC
+SysId139=0x806A
+SysName139=HP ProDesk 400 G2 DM Business PC
+SysId140=0x
+SysName140=HP 200 G1 ST Business PC
+SysId141=0x
+SysName141=HP 200 G1 ST Business PC
+SysId142=0x2B58
+SysName142=Compaq 230-axx Desktop PC
+SysId143=0x8076
+SysName143=HP ProDesk 400 G1 DM Business PC
+SysId144=0x
+SysName144=BU ICTO DSC 940M 2GB i5-5200U 15-ab0
+SysId145=0x
+SysName145=BU ICTO DSC 940M 2GB i7-5500U 15-ab0
+SysId146=0x
+SysName146=BU IDS DSC 940M 2GB i5-5200U 15-ab0
+SysId147=0x
+SysName147=BU IDS DSC 940M 2GB i7-5500U 15-ab0
+SysId148=0x2B4A
+SysName148=HP 285 Pro G1 MT Business PC
+SysId149=0x2B34
+SysName149=HP 280 Pro G1 Business PC
+SysId150=0x2B34
+SysName150=HP 280 Pro G1 Business PC
+SysId151=0x2B18
+SysName151=HP 251-0xx Desktop
+SysId152=0x2B56
+SysName152=HP 20-r0xx All-in-One
+SysId153=0x2B3C
+SysName153=HP 20-r0xx All-in-One PC
+SysId154=0x
+SysName154=HP 20-r0xx All-in-One PC
+SysId155=0x2B3F
+SysName155=HP 20-r0xx All-in-One PC
+SysId156=0x2B3B
+SysName156=HP 20-r0xx All-in-One PC
+SysId157=0x2B56
+SysName157=HP 20-r0xx All-in-One PC
+SysId158=0x2B40
+SysName158=HP 20-r0xx All-in-One PC
+SysId159=0x2B40
+SysName159=HP 20-r0xx All-in-One PC
+SysId160=0x2B41
+SysName160=HP 20-r0xx All-in-One PC
+SysId161=0x2B41
+SysName161=HP 20-r0xx All-in-One PC
+SysId162=0x
+SysName162=HP 20-r0xx All-in-One PC
+SysId163=0x2B3C
+SysName163=HP xxxx
+SysId164=0x2B3B
+SysName164=HP 20-r0xx All-in-One
+SysId165=0x2B56
+SysName165=HP 20-r0xx All-in-One
+SysId166=0x2B56
+SysName166=HP 20-r0xx All-in-One PC
+SysId167=0x
+SysName167=BU ICTO UMA i3-5020U 17-g0
+SysId168=0x
+SysName168=BU ICTO UMA PentN3700 17-g0
+SysId169=0x
+SysName169=BU IDS UMA i3-5020U 17-g0
+SysId170=0x
+SysName170=BU IDS UMA PentN3700 17-g0
+SysId171=0x2B2C
+SysName171=HP Pavilion 550-0xx Desktop PC
+SysId172=0x2B47
+SysName172=HP Pavilion 550-0xx Desktop PC
+SysId173=0x2B35
+SysName173=HP Pavilion 550-0xx Desktop PC
+SysId174=0x2B52
+SysName174=HP Pavilion 550-0xx Desktop PC
+SysId175=0x
+SysName175=HP Pavilion 550-axx Desktop PC
+SysId176=0x2B29
+SysName176=HP Pavilion 550-axx Desktop PC
+SysId177=0x2B4F
+SysName177=HP Pavilion 550-axx Desktop PC
+SysId178=0x2B1A
+SysName178=HP 200 Pro G1 MT Business PC
+SysId179=0x2B1A
+SysName179=HP 200 Pro G1 MT Business PC
+SysId180=0x2B1A
+SysName180=HP 200 Pro G1 MT Business PC
+SysId181=0x2B2C
+SysName181=HP 110-axx Desktop PC
+SysId182=0x2B46
+SysName182=HP 251-0xx Desktop PC
+SysId183=0x2B46
+SysName183=HP 251-0xx Desktop PC
+SysId184=0x2B2C
+SysName184=HP 251-0xx Desktop PC
+SysId185=0x2B29
+SysName185=HP 251-axx Desktop PC
+SysId186=0x2B4F
+SysName186=HP 251-axx Desktop PC
+SysId187=0x2B46
+SysName187=HP 251-axx Desktop PC
+SysId188=0x2B46
+SysName188=HP 251-axx Desktop PC
+SysId189=0x2B58
+SysName189=HP 251-axx Desktop PC
+SysId190=0x2B29
+SysName190=HP 251-axx Desktop PC
+SysId191=0x2B28
+SysName191=HP 251-axx Desktop PC
+SysId192=0x2B28
+SysName192=HP 251-axx Desktop PC
+SysId193=0x2B36
+SysName193=HP ENVY 700-0xx PC
+SysId194=0x2B2C
+SysName194=HP ENVY 700-0xx PC
+SysId195=0x2B35
+SysName195=HP Envy 700-0xx PC
+SysId196=0x2B36
+SysName196=HP ENVY Phoenix 810-0xx PC
+SysId197=0x2B54
+SysName197=HP All-in-One
+SysId198=0x2B54
+SysName198=HP All-in-One
+SysId199=0x2B5A
+SysName199=HP All-in-One
+SysId200=0x2B5A
+SysName200=HP All-in-One
+SysId201=0x2B5A
+SysName201=HP All-in-One
+SysId202=0x2B5A
+SysName202=HP All-in-One
+SysId203=0x
+SysName203=BU IDS DSC 930M 2GB i7-5500U 15-w1
+SysId204=0x
+SysName204=BU IDS DSC 940M 2GB i7-5500U 17-n0
+SysId205=0x8061
+SysName205=HP ProDesk 400 G3 MT Business PC
+SysId206=0x2B42
+SysName206=HP Pavilion 23-q0xx All-in-One PC
+SysId207=0x2B45
+SysName207=HP Pavilion 23-q0xx All-in-One PC
+SysId208=0x2B45
+SysName208=HP Pavilion 23-q0xx All-in-One PC
+SysId209=0x2B45
+SysName209=HP Pavilion 23-q0xx All-in-One PC
+SysId210=0x2B43
+SysName210=HP Pavilion 23-q0xx All-in-One PC
+SysId211=0x2B43
+SysName211=HP Pavilion 23-q0xx All-in-One PC
+SysId212=0x2B43
+SysName212=HP Pavilion 23-q0xx All-in-One PC
+SysId213=0x
+SysName213=HP Pavilion 23-q0xx All-in-One PC
+SysId214=0x2B42
+SysName214=HP Pavilion 23-q0xx All-in-One PC
+SysId215=0x2B42
+SysName215=HP Pavilion 23-q0xx All-in-One PC
+SysId216=0x2B44
+SysName216=HP Pavilion 23-q0xx All-in-One PC
+SysId217=0x2B44
+SysName217=HP Pav xxxx PC
+SysId218=0x2B45
+SysName218=HP Pavilion 23-q0xx All-in-One PC
+SysId219=0x2B45
+SysName219=HP Pavilion 23-q0xx All-in-One PC
+SysId220=0x2B45
+SysName220=HP Pavilion 23-q0xx All-in-One PC
+SysId221=0x2B43
+SysName221=HP Pavilion 23-q0xx All-in-One PC
+SysId222=0x2B43
+SysName222=HP Pavilion 23-q0xx All-in-One PC
+SysId223=0x2B43
+SysName223=HP Pavilion 23-q0xx All-in-One PC
+SysId224=0x2B64
+SysName224=Sprout Immersive Computer 23-xxxx
+SysId225=0x2B65
+SysName225=Sprout Immersive Computer 23-xxxx
+SysId226=0x0A1C
+SysName226=HP W2082a LED Backlit Monitor
+SysId227=0x
+SysName227=BU IDS UMA FX-8800P 15-ah1
+SysId228=0x2B3E
+SysName228=HP ENVY 24-m0xx All-in-One PC
+SysId229=0x2B3E
+SysName229=HP ENVY 24-m0xx All-in-One PC
+SysId230=0x2B2F
+SysName230=HP 205 G2 AiO Business PC
+SysId231=0x
+SysName231=BU ICTO UMA i5-5200U 4GB 13-40 x360
+SysId232=0x
+SysName232=BU ICTO UMA i7-5500U 8GB 13-40 x360
+SysId233=0x8103
+SysName233=HP t730 Thin Client
+SysId234=0x
+SysName234=BU IDS UMA CelN2840 2GB 32G eMMC 11-r0
+SysId235=0x
+SysName235=BU IDS UMA CN28402GB 32GeMMC WWAN 11-r0
+SysId236=0x2B38
+SysName236=HP Pavilion Mini Desktop 300-0xx
+SysId237=0x2B38
+SysName237=HP Stream Mini Desktop 200-0xx
+SysId238=0x2B38
+SysName238=HP Pavilion Mini Desktop 300-0xx
+SysId239=0x2B38
+SysName239=HP Pavilion Mini Desktop 300-0xx
+SysId240=0x2B38
+SysName240=HP Pavilion Mini Desktop 300-0xx
+SysId241=0x2B38
+SysName241=HP Pavilion Mini Desktop 300-0xx
+SysId242=0x2B55
+SysName242=HP Pavilion Mini Desktop 300-0xx
+SysId243=0x2B55
+SysName243=HP Pavilion Mini Desktop 300-0xx
+SysId244=0x2B38
+SysName244=HP Pavilion Mini Desktop 300-0xx
+SysId245=0x2B38
+SysName245=HP Pavilion Mini Desktop 300-0xx
+SysId246=0x2B38
+SysName246=HP Pavilion Mini Desktop 300-0xx
+SysId247=0x2B38
+SysName247=HP Pavilion Mini Desktop 300-0xx
+SysId248=0x2B38
+SysName248=HP Pavilion Mini Desktop 300-0xx
+SysId249=0x2B18
+SysName249=HP Slimline 450-0xx Desktop
+SysId250=0x2B2C
+SysName250=HP Slimline 450-0xx Desktop PC
+SysId251=0x2B46
+SysName251=HP Slimline 450-axx Desktop PC
+SysId252=0x2B46
+SysName252=HP Slimline 450-axx Desktop PC
+SysId253=0x2B46
+SysName253=HP Slimline 450-axx Desktop PC
+SysId254=0x2B46
+SysName254=HP Slimline 450-axx Desktop PC
+SysId255=0x2B58
+SysName255=HP Slimline 450-axx Desktop PC
+SysId256=0x2B29
+SysName256=HP Slimline 450-axx Desktop PC
+SysId257=0x2B28
+SysName257=HP Slimline 450-axx Desktop PC
+SysId258=0x2B28
+SysName258=HP Slimline 450-axx Desktop PC
+SysId259=0x
+SysName259=BU RCTO UMA Cel3855U HD fCam fFPR 450 G3
+SysId260=0x
+SysName260=BU RCTO UMA i3-6100U HD fCam fFPR 450 G3
+SysId261=0x
+SysName261=BU RCTO UMA i5-6200U FHD fCam fFPR 450G3
+SysId262=0x
+SysName262=BU RCTO UMA i5-6200U HD fCam fFPR 450 G3
+SysId263=0x
+SysName263=BU RCTO UMA i5-6200U HD fCam fFPRTS450G3
+SysId264=0x
+SysName264=BU RCTO UMA i7-6500U FHD fCam fFPR 450G3
+SysId265=0x
+SysName265=BU IDS UMA CelN3050 2GB 32G eMMC 13-c1
+SysId266=0x2B3C
+SysName266=HP 23-r0xx All-in-One PC
+SysId267=0x
+SysName267=HP 23-r0xx All-in-One PC
+SysId268=0x2B3F
+SysName268=HP 23-r0xx All-in-One PC
+SysId269=0x2B3B
+SysName269=HP 23-r0xx All-in-One PC
+SysId270=0x
+SysName270=HP 23-r0xx All-in-One PC
+SysId271=0x2B3B
+SysName271=HP 23-r0xx All-in-One PC
+SysId272=0x2B3B
+SysName272=HP 23-r0xx All-in-One PC
+SysId273=0x2B59
+SysName273=HP 23-r0xx All-in-One PC
+SysId274=0x2B40
+SysName274=HP 23-r0xx All-in-One PC
+SysId275=0x
+SysName275=HP Slimline Desktop PC
+SysId276=0x
+SysName276=HP 280 G1 ST Business PC
+SysId277=0x
+SysName277=BU RCTO PCB UMA i3-5005U 14-ac0 BRZL
+SysId278=0x2B2C
+SysName278=HP Pavilion Slimline 400-0xx PC
+SysId279=0x2B45
+SysName279=HP Pavilion 27-n0xx All-in-One PC
+SysId280=0x2B43
+SysName280=HP Pavilion 27-n0xx All-in-One PC
+SysId281=0x2B45
+SysName281=HP Pavilion 27-n0xx All-in-One PC
+SysId282=0x2B45
+SysName282=HP Pavilion 27-n0xx All-in-One PC
+SysId283=0x2B43
+SysName283=HP Pavilion 27-n0xx All-in-One PC
+SysId284=0x2B43
+SysName284=HP Pavilion 27-n0xx All-in-One PC
+SysId285=0x2B43
+SysName285=HP Pavilion 27-n0xx All-in-One PC
+SysId286=0x2B4C
+SysName286=HP Envy 34 All-in-One PC
+SysId287=0x2B4C
+SysName287=HP Envy 34 All-in-One PC
+SysId288=0x
+SysName288=BU IDS UMA A6-5200 fHDD/ODD 15-f0
+SysId289=0x
+SysName289=BU IDS UMA A8-6410 fHDD/ODD eDP 15-f3
+SysId290=0x2B56
+SysName290=HP 22-30xx All-in-One
+SysId291=0x2B3C
+SysName291=HP 22-30xx All-in-One PC
+SysId292=0x2B56
+SysName292=HP 22-30xx All-in-One PC
+SysId293=0x2B40
+SysName293=HP 22-30xx All-in-One PC
+SysId294=0x2B40
+SysName294=HP 22-30xx All-in-One PC
+SysId295=0x2B41
+SysName295=HP 22-30xx All-in-One PC
+SysId296=0x2B3C
+SysName296=HP 22-30xx All-in-One PC
+SysId297=0x
+SysName297=HP 22-30xx All-in-One PC
+SysId298=0x2B3B
+SysName298=HP 22-30xx All-in-One PC
+SysId299=0x
+SysName299=BU IDS i5-xxxx 15 G3
+SysId300=0x
+SysName300=BU IDS i7-QC2 15 G3
+SysId301=0x
+SysName301=BU IDS i7-T4 15 G3
+SysId302=0x
+SysName302=BU IDS Xeon Z2 15 G3
+SysId303=0x
+SysName303=BU IDS Xeon Z3+ 15 G3
+SysId304=0x
+SysName304=BU RCTO i5-xxxx 15 G3
+SysId305=0x
+SysName305=BU RCTO i7-QC2 15 G3
+SysId306=0x
+SysName306=BU RCTO i7-T4 15 G3
+SysId307=0x
+SysName307=BU RCTO Xeon Z2 15 G3
+SysId308=0x
+SysName308=BU RCTO Xeon Z3+ 15 G3
+SysId309=0x2B36
+SysName309=HP ENVY Phoenix 850-0xx Desktop PC
+SysId310=0x2B4B
+SysName310=HP ENVY Phoenix 850-0xx Desktop PC
+SysId311=0x2B3A
+SysName311=HP ENVY Phoenix 850-0xx Desktop PC
+SysId312=0x2B2C
+SysName312=HP Pavilion 500-0xx PC
+SysId313=0x2B35
+SysName313=HP Pavilion 500-axx PC
+SysId314=0x807D
+SysName314=HP Z228 Microtower Workstation
+SysId315=0x8077
+SysName315=HP t420 Thin Client
+SysId316=0x
+SysName316=BU IDS DSC i7-QC2 G3
+SysId317=0x
+SysName317=BU IDS DSC i7-T4 G3
+SysId318=0x
+SysName318=BU IDS DSC Xeon Z2 G3
+SysId319=0x
+SysName319=BU IDS DSC Xeon Z3+ G3
+SysId320=0x
+SysName320=BU IDS UMA i7-QC2 G3
+SysId321=0x
+SysName321=BU IDS UMA i7-T4 G3
+SysId322=0x
+SysName322=BU RCTO DSC i7-QC2 G3
+SysId323=0x
+SysName323=BU RCTO DSC i7-T4 G3
+SysId324=0x
+SysName324=BU RCTO DSC Xeon Z2 G3
+SysId325=0x
+SysName325=BU RCTO DSC Xeon Z3+ G3
+SysId326=0x
+SysName326=BU RCTO UMA i7-QC2 G3
+SysId327=0x
+SysName327=BU RCTO UMA i7-T4 G3
+
+[Install Execution]
+Install="Setup.exe"
+SilentInstall="install.cmd"
+
+[ReturnCode]
+0:SUCCESS:NOREBOOT=Installation successful.
+3010:SUCCESS:REBOOT=Installation successful. A reboot is required to complete the installation.
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and saving the file to a folder on your hard drive (make a note of the folder where the downloaded file is saved).
+
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/20/2015
+Copyright © 2015 HP Development Company, L.P. 

@@ -1,0 +1,502 @@
+﻿[CVA File Information]
+CVATimeStamp=20150715T030328
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=HP Documentation 1473
+AR=وثائق HP
+BR=Documentação HP
+BG=Документация на HP
+CH=HP 文档
+HR=HP dokumentacija
+CS=Dokumentace HP
+DK=HP-dokumentation
+NL=HP-documentatie
+EI=HP dokumentatsioon
+FI=HP:n ohjeet
+FR=HP Documentation
+GR=HP Dokumentation
+GK=Τεκμηρίωση της HP
+IL=תיעוד של HP
+HU=HP dokumentáció
+IT=Documentazione HP
+JP=HPドキュメント
+KZ=HP құжаттамасы
+KR=HP 설명서
+LV=HP dokumentācija
+LT=HP dokumentai
+NO=HP-dokumentasjon
+PL=Dokumentacja HP
+PT=Documentação da HP
+RO=Documentaţie HP
+RU=Документация HP
+SR=HP dokumentacija
+SK=Dokumentácia HP
+SL=HP-jeva dokumentacija
+SP=HP Documentación
+SE=HP-dokumentation
+TW=HP 說明文件
+TH=เอกสารคู่มือของ HP
+TR=HP Belgeleri
+
+[US.Software Description]
+The User Guides in this application contain product specific information.
+
+[AR.Software Description]
+تحتوي وثائق HP على معلومات وإشعارات هامة لاستخدام جهاز الكمبيوتر المحمول
+
+[BR.Software Description]
+A Documentação HP contêm informações e avisos importantes sobre a utilização do seu notebook.
+
+[BG.Software Description]
+HP документация съдържа информация и важни забележки за използването на вашия преносим компютър.
+
+[CH.Software Description]
+HP 文档包含笔记本计算机使用方面的信息和重要声明。
+
+[HR.Software Description]
+HP Dokumentacija sadrži informacije i važne obavijesti za korištenje vaše prijenosno računalo.
+
+
+[CS.Software Description]
+Dokumentace HP obsahuje informace a důležitá oznámení související s používáním notebooku.
+
+
+[DK.Software Description]
+De HP-documentatie bevat informatie en belangrijke mededelingen voor het gebruik van de notebookcomputer.
+
+[NL.Software Description]
+De HP-documentatie bevat informatie en belangrijke mededelingen voor het gebruik van de notebookcomputer.
+
+[EI.Software Description]
+HP dokumentatsioon sisaldab teavet ja tähtsaid teateid kasutamise eest oma sülearvuti.
+
+[FI.Software Description]
+HP:n käyttöohjeissa on kannettavan tietokoneen käyttöön liittyviä tietoja ja tärkeitä huomautuksia.
+
+
+[FR.Software Description]
+La documentation contient des informations et des notifications importantes concernant l'utilisation de votre ordinateur portable.
+
+[GR.Software Description]
+Die HP Dokumentation enthält Informationen und wichtige Hinweise zur Verwendung Ihres Notebook.
+
+
+[GK.Software Description]
+Η Τεκμηρίωση της ΗΡ περιέχει πληροφορίες και σημαντικές σημειώσεις για τη χρήση του φορητού σας υπολογιστή.
+
+[IL.Software Description]
+
+תיעוד של HP מכיל מידע והודעות חשובות עבור השימוש במחשב הנייד
+
+
+[HU.Software Description]
+A HP dokumentáció információkat és fontos figyelmeztetéseket tartalmaz a noteszgép használatával kapcsolatban.
+
+[IT.Software Description]
+La documentazione HP contiene informazioni utili e avvisi importanti per l'uso del notebook.
+
+[JP.Software Description]
+HPドキュメントには、ノートブック コンピューターをお使いいただくうえで重要な情報が記載されています。
+
+[KZ.Software Description]
+HP құжаттама ақпаратты және маңызды хабарламаларды жазбаның жаужұмырының сендердің компьютеріңнің игерушілігі үшін асырайды
+
+
+[KR.Software Description]
+HP 설명서에는 노트북 컴퓨터 사용에 대한 정보 및 중요 고지사항이 포함되어 있습니다.
+
+[LV.Software Description]
+HP dokumentācija satur informāciju un svarīgus paziņojumus par izmantot jūsu piezīmju datoru.
+
+[LT.Software Description]
+HP dokumentacija yra nešiojamo kompiuterio naudojimo informacijos ir svarbių įspėjimų.
+
+[NO.Software Description]
+HP-dokumentasjon innholder informasjon og viktige merknader for bruk av den bærbare datamaskinen.
+
+[PL.Software Description]
+Dokumentacja HP zawiera informacje i ważne wskazówki dla użytkowania komputera przenośnego.
+
+
+[PT.Software Description]
+A documentação da HP contém informações e avisos importantes para a utilização do seu computador notebook.
+
+[RO.Software Description]
+Documentație HP conține informații și anunțuri importante pentru utilizarea calculatorului notebook-ului.
+
+
+[RU.Software Description]
+В документации HP содержатся сведения и важные замечания по использованию ноутбука.
+
+
+[SR.Software Description]
+HP Dokumentacija sadržati obaveštenje pa važan obaveštenje određeni član korist nad tvoj notebook-računalo.
+
+[SK.Software Description]
+Dokumentácia HP obsahuje informácie a dôležité upozornenia týkajúce sa používania vášho prenosného počítača.
+
+
+[SL.Software Description]
+HP-jeva dokumentacija vsebuje podatke in pomembna obvestila o uporabi prenosnega računalnika.
+
+
+[SP.Software Description]
+La Documentación de HP contiene información y avisos importantes sobre el uso de su PC portátil.
+
+[SE.Software Description]
+I HP-dokumentation finns information och viktiga meddelanden om hur du använder notebook-datorn.
+
+
+[TW.Software Description]
+《HP 說明文件》包含使用筆記型電腦的相關資訊和重要注意事項。
+
+
+[TH.Software Description]
+
+《HP 說明文件》包含使用筆記型電腦的相關資訊和重要注意事項。
+
+
+[TR.Software Description]
+HP Belgeleri, dizüstü bilgisayarınızın kullanımı ile ilgili bilgiler ve önemli bildirimler içerir.
+
+[General]
+PN=P00KZD-B2D
+Version=1.00
+Revision=A
+Pass=4
+Type=Application
+Category=Preinstalled Documentation
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=HP
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+INSTALL.CMD=<PROGRAMFILESDIRX86>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WT32
+INSTALL.CMD=<PROGRAMFILESDIRX86>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WT64
+INSTALL.CMD=<PROGRAMFILESDIRX86>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WTIOT32
+INSTALL.CMD=<PROGRAMFILESDIRX86>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WTIOT64
+INSTALL.CMD=<PROGRAMFILES>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WT32
+INSTALL.CMD=<PROGRAMFILES>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WT64
+INSTALL.CMD=<PROGRAMFILES>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WTIOT32
+INSTALL.CMD=<PROGRAMFILES>\HP\DOCUMENTATION,0X0001,0X0005,0X0000,0X0000,WTIOT64
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+WTIOT32=OEM
+WTIOT64=OEM
+
+
+[System Information]
+SysId01=0x2B42
+SysName01=HP Pavilion 22-a0xx All-in-One PC
+SysId02=0x2B42
+SysName02=HP Pavilion 22-a0xx All-in-One PC
+SysId03=0x2B44
+SysName03=HP Pavilion 22-a0xx All-in-One PC
+SysId04=0x2B45
+SysName04=HP Pavilion 22-a0xx All-in-One PC
+SysId05=0x2B45
+SysName05=HP Pavilion 22-a0xx All-in-One PC
+SysId06=0x2B43
+SysName06=HP Pavilion 22-a0xx All-in-One PC
+SysId07=0x2B43
+SysName07=HP Pavilion 22-a0xx All-in-One PC
+SysId08=0x2B36
+SysName08=HP ENVY 750-0xx Desktop PC
+SysId09=0x2B2C
+SysName09=HP ENVY 750-0xx Desktop PC
+SysId10=0x2B47
+SysName10=HP ENVY 750-0xx Desktop PC
+SysId11=0x2B35
+SysName11=HP ENVY 750-0xx Desktop PC
+SysId12=0x2B52
+SysName12=HP ENVY 750-0xx Desktop PC
+SysId13=0x2B4B
+SysName13=HP ENVY 750-0xx Desktop PC
+SysId14=0x2B3E
+SysName14=HP Envy 27-m0xx All-in-One PC
+SysId15=0x2B3E
+SysName15=HP Envy 27-m0xx All-in-One PC
+SysId16=0x2B3E
+SysName16=HP Envy 27-m0xx All-in-One PC
+SysId17=0x2B3E
+SysName17=HP Envy 27-m0xx All-in-One PC
+SysId18=0x2B58
+SysName18=Compaq 230-axx Desktop PC
+SysId19=0x2B56
+SysName19=HP 20-r0xx All-in-One
+SysId20=0x2B3C
+SysName20=HP 20-r0xx All-in-One PC
+SysId21=0x
+SysName21=HP 20-r0xx All-in-One PC
+SysId22=0x2B3F
+SysName22=HP 20-r0xx All-in-One PC
+SysId23=0x2B3B
+SysName23=HP 20-r0xx All-in-One PC
+SysId24=0x2B56
+SysName24=HP 20-r0xx All-in-One PC
+SysId25=0x2B40
+SysName25=HP 20-r0xx All-in-One PC
+SysId26=0x2B40
+SysName26=HP 20-r0xx All-in-One PC
+SysId27=0x2B41
+SysName27=HP 20-r0xx All-in-One PC
+SysId28=0x2B41
+SysName28=HP 20-r0xx All-in-One PC
+SysId29=0x
+SysName29=HP 20-r0xx All-in-One PC
+SysId30=0x2B3C
+SysName30=HP xxxx
+SysId31=0x2B3B
+SysName31=HP 20-r0xx All-in-One
+SysId32=0x2B56
+SysName32=HP 20-r0xx All-in-One
+SysId33=0x2B56
+SysName33=HP 20-r0xx All-in-One PC
+SysId34=0x2B2C
+SysName34=HP Pavilion 550-0xx Desktop PC
+SysId35=0x2B47
+SysName35=HP Pavilion 550-0xx Desktop PC
+SysId36=0x2B35
+SysName36=HP Pavilion 550-0xx Desktop PC
+SysId37=0x2B52
+SysName37=HP Pavilion 550-0xx Desktop PC
+SysId38=0x
+SysName38=HP Pavilion 550-axx Desktop PC
+SysId39=0x2B29
+SysName39=HP Pavilion 550-axx Desktop PC
+SysId40=0x2B4F
+SysName40=HP Pavilion 550-axx Desktop PC
+SysId41=0x2B46
+SysName41=HP 251-0xx Desktop PC
+SysId42=0x2B46
+SysName42=HP 251-0xx Desktop PC
+SysId43=0x2B2C
+SysName43=HP 251-0xx Desktop PC
+SysId44=0x2B29
+SysName44=HP 251-axx Desktop PC
+SysId45=0x2B4F
+SysName45=HP 251-axx Desktop PC
+SysId46=0x2B46
+SysName46=HP 251-axx Desktop PC
+SysId47=0x2B46
+SysName47=HP 251-axx Desktop PC
+SysId48=0x2B58
+SysName48=HP 251-axx Desktop PC
+SysId49=0x2B29
+SysName49=HP 251-axx Desktop PC
+SysId50=0x2B28
+SysName50=HP 251-axx Desktop PC
+SysId51=0x2B28
+SysName51=HP 251-axx Desktop PC
+SysId52=0x2B42
+SysName52=HP Pavilion 23-q0xx All-in-One PC
+SysId53=0x2B45
+SysName53=HP Pavilion 23-q0xx All-in-One PC
+SysId54=0x2B45
+SysName54=HP Pavilion 23-q0xx All-in-One PC
+SysId55=0x2B45
+SysName55=HP Pavilion 23-q0xx All-in-One PC
+SysId56=0x2B43
+SysName56=HP Pavilion 23-q0xx All-in-One PC
+SysId57=0x2B43
+SysName57=HP Pavilion 23-q0xx All-in-One PC
+SysId58=0x2B43
+SysName58=HP Pavilion 23-q0xx All-in-One PC
+SysId59=0x
+SysName59=HP Pavilion 23-q0xx All-in-One PC
+SysId60=0x2B42
+SysName60=HP Pavilion 23-q0xx All-in-One PC
+SysId61=0x2B42
+SysName61=HP Pavilion 23-q0xx All-in-One PC
+SysId62=0x2B44
+SysName62=HP Pavilion 23-q0xx All-in-One PC
+SysId63=0x2B44
+SysName63=HP Pav xxxx PC
+SysId64=0x2B45
+SysName64=HP Pavilion 23-q0xx All-in-One PC
+SysId65=0x2B45
+SysName65=HP Pavilion 23-q0xx All-in-One PC
+SysId66=0x2B45
+SysName66=HP Pavilion 23-q0xx All-in-One PC
+SysId67=0x2B43
+SysName67=HP Pavilion 23-q0xx All-in-One PC
+SysId68=0x2B43
+SysName68=HP Pavilion 23-q0xx All-in-One PC
+SysId69=0x2B43
+SysName69=HP Pavilion 23-q0xx All-in-One PC
+SysId70=0x2B3E
+SysName70=HP ENVY 24-m0xx All-in-One PC
+SysId71=0x2B3E
+SysName71=HP ENVY 24-m0xx All-in-One PC
+SysId72=0x2B2F
+SysName72=HP 205 G2 AiO Business PC
+SysId73=0x2B38
+SysName73=HP Pavilion Mini Desktop 300-0xx
+SysId74=0x2B38
+SysName74=HP Stream Mini Desktop 200-0xx
+SysId75=0x2B38
+SysName75=HP Pavilion Mini Desktop 300-0xx
+SysId76=0x2B38
+SysName76=HP Pavilion Mini Desktop 300-0xx
+SysId77=0x2B38
+SysName77=HP Pavilion Mini Desktop 300-0xx
+SysId78=0x2B38
+SysName78=HP Pavilion Mini Desktop 300-0xx
+SysId79=0x2B55
+SysName79=HP Pavilion Mini Desktop 300-0xx
+SysId80=0x2B55
+SysName80=HP Pavilion Mini Desktop 300-0xx
+SysId81=0x2B38
+SysName81=HP Pavilion Mini Desktop 300-0xx
+SysId82=0x2B38
+SysName82=HP Pavilion Mini Desktop 300-0xx
+SysId83=0x2B38
+SysName83=HP Pavilion Mini Desktop 300-0xx
+SysId84=0x2B38
+SysName84=HP Pavilion Mini Desktop 300-0xx
+SysId85=0x2B38
+SysName85=HP Pavilion Mini Desktop 300-0xx
+SysId86=0x2B18
+SysName86=HP Slimline 450-0xx Desktop
+SysId87=0x2B2C
+SysName87=HP Slimline 450-0xx Desktop PC
+SysId88=0x2B46
+SysName88=HP Slimline 450-axx Desktop PC
+SysId89=0x2B46
+SysName89=HP Slimline 450-axx Desktop PC
+SysId90=0x2B46
+SysName90=HP Slimline 450-axx Desktop PC
+SysId91=0x2B46
+SysName91=HP Slimline 450-axx Desktop PC
+SysId92=0x2B58
+SysName92=HP Slimline 450-axx Desktop PC
+SysId93=0x2B29
+SysName93=HP Slimline 450-axx Desktop PC
+SysId94=0x2B28
+SysName94=HP Slimline 450-axx Desktop PC
+SysId95=0x2B28
+SysName95=HP Slimline 450-axx Desktop PC
+SysId96=0x2B3C
+SysName96=HP 23-r0xx All-in-One PC
+SysId97=0x
+SysName97=HP 23-r0xx All-in-One PC
+SysId98=0x2B3F
+SysName98=HP 23-r0xx All-in-One PC
+SysId99=0x2B3B
+SysName99=HP 23-r0xx All-in-One PC
+SysId100=0x
+SysName100=HP 23-r0xx All-in-One PC
+SysId101=0x2B3B
+SysName101=HP 23-r0xx All-in-One PC
+SysId102=0x2B3B
+SysName102=HP 23-r0xx All-in-One PC
+SysId103=0x2B59
+SysName103=HP 23-r0xx All-in-One PC
+SysId104=0x2B40
+SysName104=HP 23-r0xx All-in-One PC
+SysId105=0x
+SysName105=HP Slimline Desktop PC
+SysId106=0x
+SysName106=HP 280 G1 ST Business PC
+SysId107=0x2B45
+SysName107=HP Pavilion 27-n0xx All-in-One PC
+SysId108=0x2B43
+SysName108=HP Pavilion 27-n0xx All-in-One PC
+SysId109=0x2B45
+SysName109=HP Pavilion 27-n0xx All-in-One PC
+SysId110=0x2B45
+SysName110=HP Pavilion 27-n0xx All-in-One PC
+SysId111=0x2B43
+SysName111=HP Pavilion 27-n0xx All-in-One PC
+SysId112=0x2B43
+SysName112=HP Pavilion 27-n0xx All-in-One PC
+SysId113=0x2B43
+SysName113=HP Pavilion 27-n0xx All-in-One PC
+SysId114=0x2B4C
+SysName114=HP Envy 34 All-in-One PC
+SysId115=0x2B4C
+SysName115=HP Envy 34 All-in-One PC
+SysId116=0x2B56
+SysName116=HP 22-30xx All-in-One
+SysId117=0x2B3C
+SysName117=HP 22-30xx All-in-One PC
+SysId118=0x2B56
+SysName118=HP 22-30xx All-in-One PC
+SysId119=0x2B40
+SysName119=HP 22-30xx All-in-One PC
+SysId120=0x2B40
+SysName120=HP 22-30xx All-in-One PC
+SysId121=0x2B41
+SysName121=HP 22-30xx All-in-One PC
+SysId122=0x2B3C
+SysName122=HP 22-30xx All-in-One PC
+SysId123=0x
+SysName123=HP 22-30xx All-in-One PC
+SysId124=0x2B3B
+SysName124=HP 22-30xx All-in-One PC
+SysId125=0x2B36
+SysName125=HP ENVY Phoenix 850-0xx Desktop PC
+SysId126=0x2B4B
+SysName126=HP ENVY Phoenix 850-0xx Desktop PC
+SysId127=0x2B3A
+SysName127=HP ENVY Phoenix 850-0xx Desktop PC
+SysId128=0x2B2C
+SysName128=HP Pavilion 500-0xx PC
+SysId129=0x2B35
+SysName129=HP Pavilion 500-axx PC
+SysId130=0x2B07
+SysName130=CQ 18-40xx PC
+SysId131=0x2B2F
+SysName131=CQ 18-40xx PC
+SysId132=0x2B0C
+SysName132=CQ 18-40xx PC
+SysId133=0x2B0C
+SysName133=CQ 18-50xx PC
+SysId134=0x2B07
+SysName134=HP 18-50xx PC
+SysId135=0x2B2F
+SysName135=HP 18-50xx PC
+SysId136=0x2B0C
+SysName136=HP 18-50xx PC
+SysId137=0x2B0C
+SysName137=HP 18-50xx PC
+SysId138=0x2B07
+SysName138=HP 205 G1 AiO Business PC
+SysId139=0x2B0C
+SysName139=HP 18 AiO Business PC
+SysId140=0x2B0C
+SysName140=HP 18  AiO Business PC
+SysId141=0x
+SysName141=HP Pavilion 500-axx PC
+SysId142=0x2B29
+SysName142=HP Pavilion 500-axx PC
+
+[Install Execution]
+Install="install.cmd"
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and
+saving the file to a folder on your hard drive (make a note of the folder where
+the downloaded file is saved).
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/15/2015
+Copyright © 2015 HP Development Company, L.P. 

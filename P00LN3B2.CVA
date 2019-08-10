@@ -1,0 +1,261 @@
+﻿[CVA File Information]
+CVATimeStamp=20150715T090729
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Windows 10 Reinstall Inbox Windows Store Apps
+
+[US.Software Description]
+Windows 10 Reinstall Inbox Windows Store Apps
+
+[General]
+PN=P00LN3-B2E
+Version=07.01.2015
+Revision=E
+Pass=1
+Type=SWOption
+Category=OS - Add-ons
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=Microsoft
+VendorVersion=July
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+
+
+[System Information]
+SysId01=0x2255
+SysName01=HP ZBook 17 G2 Mobile Workstation
+SysId02=0x190A
+SysName02=HP ZBook 17 Mobile Workstation
+SysId03=0x2157
+SysName03=HP ElitePad 1000 G2
+SysId04=0x22DA
+SysName04=HP EliteBook Folio 9480m
+SysId05=0x8060
+SysName05=HP ProDesk 480 PC
+SysId06=0x2270
+SysName06=HP EliteBook 1040 G2
+SysId07=0x2271
+SysName07=HP EliteBook Folio 1020 G1;HP EliteBook Folio 1020 G1 Special Edition
+SysId08=0x80FA
+SysName08=HP EliteBook Folio 1040 G3
+SysId09=0x805F
+SysName09=HP ProDesk 490 PC;HP ProDesk 498 PC
+SysId10=0x805A
+SysName10=HP EliteDesk 705 PC
+SysId11=0x80FB
+SysName11=HP EliteBook Folio 1020 G2;HP EliteBook Folio 1020 G2 Special Edition
+SysId12=0x213E
+SysName12=HP EliteBook Folio 1040 G1
+SysId13=0x8079
+SysName13=HP EliteBook 840 G3;HP EliteBook 740 G3;HP EliteBook 850 G3;HP EliteBook 750 G3;HP ZBook 15u G3 Mobile Workstation
+SysId14=0x2216
+SysName14=HP EliteBook 840 G2;HP EliteBook 740 G2;HP EliteBook 850 G2;HP EliteBook 750 G2;HP ZBook 14 G2 Mobile Workstation;HP ZBook 15u G2 Mobile Workstation
+SysId15=0x80FD
+SysName15=HP ProBook 640 G2;HP ProBook 650 G2
+SysId16=0x8125
+SysName16=HP ProBook 650 G2
+SysId17=0x198F
+SysName17=HP EliteBook 840 G1;HP EliteBook 740 G1;HP ZBook 14 Mobile Workstation;HP EliteBook 850 G1;HP EliteBook 750 G1
+SysId18=0x8063
+SysName18=HP ProOne 400 PC
+SysId19=0x1993
+SysName19=HP ProBook 640 G1;HP ProBook 650 G1
+SysId20=0x2101
+SysName20=HP ProBook 640 G1;HP ProBook 650 G1
+SysId21=0x1994
+SysName21=HP ProBook 640 G1
+SysId22=0x2102
+SysName22=HP ProBook 640 G1
+SysId23=0x2155
+SysName23=HP mt41 Mobile Thin Client
+SysId24=0x8058
+SysName24=HP EliteOne 800 PC;HP EliteOne 800G2
+SysId25=0x806A
+SysName25=HP ProDesk 400 PC
+SysId26=0x8056
+SysName26=HP EliteDesk 800 PC
+SysId27=0x8042
+SysName27=HP Pro Tablet 608 G1
+SysId28=0x805E
+SysName28=HP ProOne 600 PC
+SysId29=0x8170
+SysName29=HP EliteBook Folio 1020 G3
+SysId30=0x8062
+SysName30=HP ProDesk 400 PC
+SysId31=0x8057
+SysName31=HP EliteOne 800 PC
+SysId32=0x805C
+SysName32=HP EliteOne 705 PC
+SysId33=0x22C2
+SysName33=HP 355 G2
+SysId34=0x22C1
+SysName34=HP 355 G2
+SysId35=0x221B
+SysName35=HP Pro x2 612 G1 Power Keyboard;HP Pro x2 612 G1 Tablet;HP Pro x2 612 G1 Tablet with Power Keyboard
+SysId36=0x2178
+SysName36=HP 215 G1 Ultrabook PC
+SysId37=0x8084
+SysName37=HP EliteBook 725 G3
+SysId38=0x221D
+SysName38=HP EliteBook 725 G2
+SysId39=0x8055
+SysName39=HP EliteDesk 800G2;HP EliteDesk 800 PC
+SysId40=0x8061
+SysName40=HP ProDesk 400 PC
+SysId41=0x80FC
+SysName41=HP Elite x2 1012 G1 Tablet;HP Elite x2 1012 G1 with Travel Keyboard;HP Elite x2 1012 G1 Advanced Keyboard
+SysId42=0x1086
+SysName42=HP Classmate 1 Notebook
+SysId43=0x2009
+SysName43=HP Elite x2 1011 G1 Tablet;HP Elite x2 1011 G1 Tablet with Power Keyboard;HP Elite x2 1011 G1 Power Keyboard
+SysId44=0x21B3
+SysName44=HP EliteBook Revolve 810 G2 G1
+SysId45=0x22FB
+SysName45=HP EliteBook Revolve 810 G3 G1
+SysId46=0x80EF
+SysName46=HP ProBook 455 G3
+SysId47=0x80F0
+SysName47=HP ProBook 455 G3
+SysId48=0x2235
+SysName48=HP ProBook 455 G2
+SysId49=0x2236
+SysName49=HP ProBook 455 G2;HP ProBook 445 G2
+SysId50=0x2234
+SysName50=HP ProBook 445 G2
+SysId51=0x2209
+SysName51=HP x360 310 G1 PC
+SysId52=0x194E
+SysName52=HP ProBook 455 G1
+SysId53=0x1952
+SysName53=HP ProBook 455 G1;HP ProBook 445 G1
+SysId54=0x1950
+SysName54=HP ProBook 445 G1
+SysId55=0x1946
+SysName55=HP ProBook 430 G1
+SysId56=0x1947
+SysName56=HP ProBook 430 G1;HP ProBook 440 G1;HP ProBook 450 G1;HP ProBook 470 G1
+SysId57=0x2249
+SysName57=HP ProBook 470 G2
+SysId58=0x224A
+SysName58=HP ProBook 470 G2;HP ProBook 450 G2;HP ProBook 440 G2
+SysId59=0x1944
+SysName59=HP ProBook 440 G1
+SysId60=0x2248
+SysName60=HP ProBook 450 G2
+SysId61=0x8101
+SysName61=HP ProBook 450 G3
+SysId62=0x1942
+SysName62=HP ProBook 450 G1
+SysId63=0x8100
+SysName63=HP ProBook 440 G3
+SysId64=0x1940
+SysName64=HP ProBook 470 G1
+SysId65=0x8102
+SysName65=HP ProBook 470 G3
+SysId66=0x2247
+SysName66=HP ProBook 440 G2
+SysId67=0x80FF
+SysName67=HP ProBook 430 G3
+SysId68=0x2246
+SysName68=HP ProBook 430 G2
+SysId69=0x807C
+SysName69=HP EliteBook 820 G3
+SysId70=0x8054
+SysName70=HP EliteDesk 800 PC
+SysId71=0x225A
+SysName71=HP EliteBook 820 G2;HP EliteBook 720 G2
+SysId72=0x21B7
+SysName72=HP 248 G1;HP 340 G1;HP 350 G1
+SysId73=0x21B8
+SysName73=HP 248 G1;HP 340 G1;HP 350 G1
+SysId74=0x8036
+SysName74=HP 340 G2
+SysId75=0x8037
+SysName75=HP 340 G2
+SysId76=0x8038
+SysName76=HP 340 G2
+SysId77=0x8039
+SysName77=HP 340 G2
+SysId78=0x8007
+SysName78=HP 340 G2
+SysId79=0x8008
+SysName79=HP 340 G2
+SysId80=0x8009
+SysName80=HP 340 G2
+SysId81=0x800A
+SysName81=HP 340 G2
+SysId82=0x803A
+SysName82=HP 350 G2
+SysId83=0x803B
+SysName83=HP 350 G2
+SysId84=0x803C
+SysName84=HP 350 G2
+SysId85=0x803D
+SysName85=HP 350 G2
+SysId86=0x800B
+SysName86=HP 350 G2
+SysId87=0x800C
+SysName87=HP 350 G2
+SysId88=0x800D
+SysName88=HP 350 G2
+SysId89=0x800E
+SysName89=HP 350 G2
+SysId90=0x8053
+SysName90=HP EliteDesk 800 PC
+SysId91=0x1991
+SysName91=HP EliteBook 820 G1;HP EliteBook 720 G1
+SysId92=0x8139
+SysName92=
+SysId93=0x1992
+SysName93=HP ProBook 645 G1;HP ProBook 655 G1
+SysId94=0x807E
+SysName94=HP EliteBook 745 G3;HP EliteBook 755 G3
+SysId95=0x805D
+SysName95=HP EliteDesk 600 PC
+SysId96=0x221C
+SysName96=HP EliteBook 745 G2;HP EliteBook 755 G2
+SysId97=0x80FE
+SysName97=HP ProBook 645 G2;HP ProBook 655 G2
+SysId98=0x2152
+SysName98=SMB Pro
+SysId99=0x2253
+SysName99=HP ZBook 15 G2 Mobile Workstation
+SysId100=0x1909
+SysName100=HP ZBook 15 Mobile Workstation
+SysId101=0x805B
+SysName101=HP EliteDesk 705 PC
+
+[Install Execution]
+Install=
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and
+saving the file to a folder on your hard drive (make a note of the folder where
+the downloaded file is saved).
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/15/2015
+Copyright © 2015 HP Development Company, L.P. 

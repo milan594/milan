@@ -1,0 +1,964 @@
+﻿[CVA File Information]
+CVATimeStamp=20150622T113352
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=System Default Settings for Windows 10
+AR=System Default Settings for Windows 10
+BR=System Default Settings for Windows 10
+BG=System Default Settings for Windows 10
+CH=System Default Settings for Windows 10
+HR=System Default Settings for Windows 10
+CS=System Default Settings for Windows 10
+DK=System Default Settings for Windows 10
+NL=System Default Settings for Windows 10
+FI=System Default Settings for Windows 10
+FR=System Default Settings for Windows 10
+GR=System Default Settings for Windows 10
+GK=System Default Settings for Windows 10
+IL=System Default Settings for Windows 10
+TZ=System Default Settings for Windows 10
+HU=System Default Settings for Windows 10
+IT=System Default Settings for Windows 10
+JP=System Default Settings for Windows 10
+KR=System Default Settings for Windows 10
+LV=System Default Settings for Windows 10
+LT=System Default Settings for Windows 10
+NO=System Default Settings for Windows 10
+PL=System Default Settings for Windows 10
+PT=System Default Settings for Windows 10
+RO=System Default Settings for Windows 10
+RU=System Default Settings for Windows 10
+SK=System Default Settings for Windows 10
+SL=System Default Settings for Windows 10
+SP=System Default Settings for Windows 10
+SE=System Default Settings for Windows 10
+TW=System Default Settings for Windows 10
+TH=System Default Settings for Windows 10
+TR=System Default Settings for Windows 10
+
+[US.Software Description]
+This package contains a program that enables users to restore the default Power Management Settings in the registry for the supported notebook/laptop models and operating systems.
+
+[AR.Software Description]
+تحتوي هذه الحزمة على برنامج يُمكن المستخدمين من استعادة "إعدادات إدارة الطاقة" في التسجيل الخاص بطرازات الكمبيوتر الشخصي المحمول/الكمبيوتر الشخصي وأنظمة التشغيل.
+
+[BR.Software Description]
+Este pacote contém um programa que permite aos usuários restaurar as configurações de gerenciamento de energia padrão no registro do sistema para os modelos de notebook/laptop e sistemas operacionais suportados.
+
+[BG.Software Description]
+Този пакет съдържа програма, позволяваща на потребителите да възстановяват настройките по подразбиране за „Управление на захранването“ в регистрите за поддържаните модели преносими компютри и операционни системи.
+
+[CH.Software Description]
+本软件包所含的程序，可使用户为受支持的笔记本计算机机型和操作系统，还原注册表中的默认电源管理设置。
+
+[HR.Software Description]
+Ovaj paket sadrži program koji korisnicima omogućuje vraćanje zadanih postavki Upravljanja napajanjem u registru za podržane modele prijenosnih računala/laptopa i operacijske sustave.
+
+[CS.Software Description]
+Tato sada obsahuje program, který uživatelům umožňuje obnovit výchozí nastavení správy napájení v registru pro podporované modely notebooků a operační systémy.
+
+[DK.Software Description]
+Denne pakke indeholder et program, som gør, at brugerne kan gendanne standardindstillingerne for strømstyring i registreringsdatabasen på understøttede bærbare computere og operativsystemer.
+
+[NL.Software Description]
+Dit pakket bevat een programma waarmee gebruikers de standaardinstellingen voor energiebeheer in het register kunnen herstellen voor de ondersteunde notebook-/laptopcomputers en besturingssystemen.
+
+[FI.Software Description]
+Tämä paketti sisältää ohjelman, jonka avulla käyttäjä voi palauttaa tuettujen kannettavien tietokonemallien ja käyttöjärjestelmien rekisterin virranhallinta-asetusten oletusarvot.
+
+[FR.Software Description]
+Ce kit contient un programme permettant aux utilisateurs de restaurer les Paramètres de gestion de l'alimentation par défaut du registre pour les modèles d'ordinateurs portables et les systèmes d'exploitation pris en charge.
+
+[GR.Software Description]
+Dieses Paket enthält ein Programm zur Wiederherstellung der standardmäßigen Energieverwaltungseinstellungen in der Registrierung für die unterstützten Notebook-/Laptop-Modelle und Betriebssysteme.
+
+[GK.Software Description]
+Το πακέτο αυτό περιέχει ένα πρόγραμμα που επιτρέπει στους χρήστες να επαναφέρουν τις προεπιλεγμένες ρυθμίσεις διαχείρισης ενέργειας στο μητρώο για τα υποστηριζόμενα μοντέλα φορητών υπολογιστών και λειτουργικά συστήματα.
+
+[IL.Software Description]
+חבילה זו מכילה תוכנית המאפשרת למשתמשים לשחזר את הגדרות ברירת המחדל של 'ניהול צריכת חשמל' במערכת הרישום עבור מערכות ההפעלה ודגמי המחשבים הניידים/נישאים הנתמכים.
+
+[TZ.Software Description]
+此套件中所包含的程式，可讓使用者針對受支援的筆記型和作業系統，還原登錄中預設的「電源管理設定」。
+
+[HU.Software Description]
+A csomag tartalmaz egy olyan programot, amellyel a felhasználók visszaállíthatják az alapértelmezett energiagazdálkodási beállításokat a beállításjegyzékben a támogatott notebook-/laptopmodellek és operációs rendszerek esetén.
+
+[IT.Software Description]
+Questo pacchetto contiene un programma che consente agli utenti di ripristinare le impostazioni predefinite di risparmio energia nel Registro di sistema per i modelli di notebook/laptop e i sistemi operativi supportati.
+
+[JP.Software Description]
+このパッケージには、サポートされているモデルのノートブックまたはラップトップ コンピューターおよびオペレーティング システムで、ユーザーがレジストリ内の電源管理の初期設定を復元できるプログラムが含まれています。
+
+[KR.Software Description]
+이 패키지에는 사용자가 지원되는 노트북/랩톱 모델 및 운영체제에 대한 레지스트리의 기본 전원 관리 설정을 복원할 수 있는 프로그램이 들어 있습니다.
+
+[LV.Software Description]
+Šajā pakotnē iekļauta programma, kas lietotājiem reģistrā ļauj atjaunot noklusējuma strāvas pārvaldības iestatījumus atbalstītajiem piezīmjdatoru/klēpjdatoru modeļiem un operētājsistēmām.
+
+[LT.Software Description]
+Šioje pakuotėje yra programa, kuria naudotojai gali atkurti numatytuosius maitinimo valdymo nustatymus registre, skirtame tinkamiems nešiojamų ar planšetinių kompiuterių modeliams ir operacinėms sistemoms.
+
+[NO.Software Description]
+Denne pakken inneholder et program som gjør det mulig for brukerne å gjenopprette standardstrømstyringsinnstillingene i registeret for de støttede bærbare datamaskinmodellene og operativsystemene.
+
+[PL.Software Description]
+W pakiecie znajduje się program, który umożliwia użytkownikom przywracanie w rejestrze domyślnych ustawień zarządzania energią w przypadku obsługiwanych modeli komputerów przenośnych oraz systemów operacyjnych.
+
+[PT.Software Description]
+Este pacote contém um programa que permite aos utilizadores restaurar as predefinições de gestão de energia no registo para os modelos de notebook/portátil suportados e sistemas operativos.
+
+[RO.Software Description]
+Acest pachet conţine un program care permite utilizatorilor să restaureze în registry setările implicite de management al energiei pentru modelele de computere portabile şi sisteme de operare acceptate.
+
+[RU.Software Description]
+Этот пакет содержит программу, позволяющую пользователям восстанавливать параметры управления электропитанием по умолчанию в реестре для поддерживаемых моделей ноутбуков и операционных систем.
+
+[SK.Software Description]
+Táto sada obsahuje program, ktorý používateľom umožňuje obnoviť predvolené nastavenie správy napájania v registri pre podporované modely notebookov a operačné systémy.
+
+[SL.Software Description]
+Ta paket vsebuje program, ki uporabnikom omogoča obnovitev privzetih nastavitev upravljanja porabe v registru za podprte modele prenosnih računalnikov/prenosnikov in operacijske sisteme.
+
+[SP.Software Description]
+Este paquete contiene un programa que les permite a los usuarios restaurar en el registro las configuraciones predeterminadas de administración de energía de los sistemas operativos y los modelos de PC portátiles admitidos.
+
+[SE.Software Description]
+Med programmet i paketet kan användare återställa standardinställningarna för energihantering i registret för de modeller av notebook-datorer/bärbara datorer och operativsystemsversioner som stöds.
+
+[TW.Software Description]
+此套件中所包含的程式，可讓使用者針對受支援的筆記型和作業系統，還原登錄中預設的「電源管理設定」。
+
+[TH.Software Description]
+แพ็คเกจนี้ประกอบด้วยโปรแกรมที่ช่วยให้ผู้ใช้สามารถเรียกคืนการตั้งค่าเริ่มต้นสำหรับการจัดการพลังงานในรีจิสทรีสำหรับโน้ตบุ๊ก/แลปท็อปรุ่นที่รองรับ รวมถึงระบบปฏิบัติการ
+
+[TR.Software Description]
+Bu paket, kullanıcıların desteklenen dizüstü bilgisayar modelleri ve işletim sistemleri için kayıt defterindeki varsayılan Güç Yönetimi Ayarlarını geri yüklemesini sağlayan bir program içerir.
+
+[General]
+PN=P00KMQ-B2C
+Version=1.0
+Revision=1
+Pass=3
+Type=Application
+Category=Application - General
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=HP
+VendorVersion=1.0.1
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+HPDefSet.DLL=<ProgramFilesDir>\HP\HP System Default Settings,0x0001,0x0000,0x0001,0x0001,WT32
+HPDefSet.DLL=<ProgramFilesDir>\HP\HP System Default Settings,0x0001,0x0000,0x0001,0x0001,WTIOT32
+HPDefSet.DLL=<PROGRAMFILESDIRX86>\HP\HP System Default Settings,0x0001,0x0000,0x0001,0x0001,WT64
+HPDefSet.DLL=<PROGRAMFILESDIRX86>\HP\HP System Default Settings,0x0001,0x0000,0x0001,0x0001,WTIOT64
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+WTIOT32=OEM
+WTIOT64=OEM
+
+
+[System Information]
+SysId01=0x2255
+SysName01=HP ZBook 17 G2 Mobile Workstation
+SysId02=0x2157
+SysName02=HP ElitePad 1000 G2
+SysId03=0x80D6
+SysName03=HP ZBook 17 G3 Mobile Workstation
+SysId04=0x18DF
+SysName04=HP EliteBook Folio 9470m
+SysId05=0x22DA
+SysName05=HP EliteBook Folio 9480m
+SysId06=0x8060
+SysName06=HP ProDesk 480 PC
+SysId07=0x2270
+SysName07=HP EliteBook 1040 G2
+SysId08=0x2271
+SysName08=HP EliteBook Folio 1020 G1;HP EliteBook Folio 1020 G1 Special Edition
+SysId09=0x80FA
+SysName09=HP EliteBook Folio 1040 G3
+SysId10=0x805F
+SysName10=HP ProDesk 490 PC;HP ProDesk 498 PC
+SysId11=0x805A
+SysName11=HP EliteDesk 705 PC
+SysId12=0x213E
+SysName12=HP EliteBook Folio 1040 G1
+SysId13=0x18D4
+SysName13=HP 3125
+SysId14=0x8079
+SysName14=HP EliteBook 850 G3;HP EliteBook 750 G3;HP ZBook 15u G3 Mobile Workstation
+SysId15=0x179B
+SysName15=HP ProBook 6470b;HP EliteBook 8470p;HP EliteBook 8470w Mobile Workstation
+SysId16=0x179C
+SysName16=HP ProBook 6470b;HP EliteBook 8470p;HP EliteBook 8470w Mobile Workstation
+SysId17=0x2216
+SysName17=HP EliteBook 840 G2;HP EliteBook 740 G2;HP EliteBook 850 G2;HP EliteBook 750 G2;HP ZBook 14 G2 Mobile Workstation;HP ZBook 15u G2 Mobile Workstation
+SysId18=0x80FD
+SysName18=HP ProBook 650 G2
+SysId19=0x8125
+SysName19=HP ProBook 650 G2
+SysId20=0x198F
+SysName20=HP EliteBook 840 G1;HP EliteBook 740 G1;HP ZBook 14 Mobile Workstation;HP EliteBook 850 G1;HP EliteBook 750 G1
+SysId21=0x8063
+SysName21=HP ProOne 400 PC
+SysId22=0x1993
+SysName22=HP ProBook 640 G1;HP ProBook 650 G1
+SysId23=0x2101
+SysName23=HP ProBook 640 G1;HP ProBook 650 G1
+SysId24=0x1994
+SysName24=HP ProBook 640 G1
+SysId25=0x2102
+SysName25=HP ProBook 640 G1
+SysId26=0x8058
+SysName26=HP EliteOne 800 PC;HP EliteOne 800G2
+SysId27=0x806A
+SysName27=HP ProDesk 400 PC
+SysId28=0x8056
+SysName28=HP EliteDesk 800 PC
+SysId29=0x808F
+SysName29=HP ProBook 11 G1 Education Edition
+SysId30=0x8078
+SysName30=HP ProBook 11 Education Edition
+SysId31=0x805E
+SysName31=HP ProOne 600 PC
+SysId32=0x8170
+SysName32=HP EliteBook Folio 1020 G3
+SysId33=0x8062
+SysName33=HP ProDesk 400 PC
+SysId34=0x8057
+SysName34=HP EliteOne 800 PC
+SysId35=0x8046
+SysName35=HP Pro Tablet 10 EE G1
+SysId36=0x805C
+SysName36=HP EliteOne 705 PC
+SysId37=0x8169
+SysName37=HP ProDesk 600 PC
+SysId38=0x221B
+SysName38=HP Pro x2 612 G1 Power Keyboard;HP Pro x2 612 G1 Tablet;HP Pro x2 612 G1 Tablet with Power Keyboard
+SysId39=0x2178
+SysName39=HP 215 G1 Ultrabook PC
+SysId40=0x2257
+SysName40=HP 210 G1
+SysId41=0x221D
+SysName41=HP EliteBook 725 G2
+SysId42=0x8055
+SysName42=HP EliteDesk 800G2;HP EliteDesk 800 PC
+SysId43=0x8061
+SysName43=HP ProDesk 400 PC
+SysId44=0x80FC
+SysName44=HP Elite x2 1012 G2 Tablet;HP Elite x2 1012 G2 with Travel Keyboard;HP Elite x2 1012 G2 Productivity Keyboard
+SysId45=0x2009
+SysName45=HP Elite x2 1011 G1 Tablet;HP Elite x2 1011 G1 Tablet with Power Keyboard;HP Elite x2 1011 G1 Power Keyboard
+SysId46=0x21B3
+SysName46=HP EliteBook Revolve 810 G2 G1
+SysId47=0x8048
+SysName47=HP Pro Tablet 408 G1
+SysId48=0x8049
+SysName48=HP Pro Tablet 408 G1
+SysId49=0x22FB
+SysName49=HP EliteBook Revolve 810 G3 G1
+SysId50=0x2235
+SysName50=HP ProBook 455 G2
+SysId51=0x2236
+SysName51=HP ProBook 455 G2;HP ProBook 445 G2
+SysId52=0x2234
+SysName52=HP ProBook 445 G2
+SysId53=0x2249
+SysName53=HP ProBook 470 G2
+SysId54=0x224A
+SysName54=HP ProBook 470 G2;HP ProBook 450 G2;HP ProBook 440 G2
+SysId55=0x2248
+SysName55=HP ProBook 450 G2
+SysId56=0x8101
+SysName56=HP ProBook 450 G3
+SysId57=0x8100
+SysName57=HP ProBook 440 G3
+SysId58=0x8102
+SysName58=HP ProBook 470 G3
+SysId59=0x2247
+SysName59=HP ProBook 440 G2
+SysId60=0x80FF
+SysName60=HP ProBook 430 G3
+SysId61=0x2246
+SysName61=HP ProBook 430 G2
+SysId62=0x807C
+SysName62=HP EliteBook 820 G3;HP EliteBook 720 G3
+SysId63=0x8054
+SysName63=HP EliteDesk 800 PC
+SysId64=0x225A
+SysName64=HP EliteBook 820 G2;HP EliteBook 720 G2
+SysId65=0x8053
+SysName65=HP EliteDesk 800 PC
+SysId66=0x1991
+SysName66=HP EliteBook 820 G1;HP EliteBook 720 G1
+SysId67=0x1992
+SysName67=HP ProBook 645 G1;HP ProBook 655 G1
+SysId68=0x805D
+SysName68=HP EliteDesk 600 PC
+SysId69=0x221C
+SysName69=HP EliteBook 745 G2;HP EliteBook 755 G2
+SysId70=0x80FE
+SysName70=HP ProBook 645 G2;HP ProBook 655 G2
+SysId71=0x2253
+SysName71=HP ZBook 15 G2 Mobile Workstation
+SysId72=0x80D5
+SysName72=HP ZBook 15 G3 Mobile Workstation
+SysId73=0x805B
+SysName73=HP EliteDesk 705 PC
+SysId74=0x80D4
+SysName74=HP ZBook Studio G3 Mobile Workstation
+SysId75=0x802F
+SysName75=HP Z240 Tower BR Workstation
+SysId76=0x802F
+SysName76=HP Z240 Tower Workstation
+SysId77=0x802E
+SysName77=HP Z240 SFF BR Workstation
+SysId78=0x802E
+SysName78=HP Z240 SFF Workstation
+SysId79=0x2B42
+SysName79=HP Pavilion 22-a0xx All-in-One PC
+SysId80=0x2B42
+SysName80=HP Pavilion 22-a0xx All-in-One PC
+SysId81=0x2B44
+SysName81=HP Pavilion 22-a0xx All-in-One PC
+SysId82=0x2B45
+SysName82=HP Pavilion 22-a0xx All-in-One PC
+SysId83=0x2B45
+SysName83=HP Pavilion 22-a0xx All-in-One PC
+SysId84=0x2B43
+SysName84=HP Pavilion 22-a0xx All-in-One PC
+SysId85=0x2B43
+SysName85=HP Pavilion 22-a0xx All-in-One PC
+SysId86=0x
+SysName86=BU IDS i5-xxxx 17 G3
+SysId87=0x
+SysName87=BU IDS i7-QC2 17 G3
+SysId88=0x
+SysName88=BU IDS i7-T4 17 G3
+SysId89=0x
+SysName89=BU IDS Xeon Z2 17 G3
+SysId90=0x
+SysName90=BU IDS Xeon Z3+ 17 G3
+SysId91=0x
+SysName91=BU RCTO i5-xxxx 17 G3
+SysId92=0x
+SysName92=BU RCTO i7-QC2 17 G3
+SysId93=0x
+SysName93=BU RCTO i7-T4 17 G3
+SysId94=0x
+SysName94=BU RCTO Xeon Z2 17 G3
+SysId95=0x
+SysName95=BU RCTO Xeon Z3+ 17 G3
+SysId96=0x2B36
+SysName96=HP ENVY 750-0xx Desktop PC
+SysId97=0x2B2C
+SysName97=HP ENVY 750-0xx Desktop PC
+SysId98=0x2B47
+SysName98=HP ENVY 750-0xx Desktop PC
+SysId99=0x2B35
+SysName99=HP ENVY 750-0xx Desktop PC
+SysId100=0x2B52
+SysName100=HP ENVY 750-0xx Desktop PC
+SysId101=0x2B4B
+SysName101=HP ENVY 750-0xx Desktop PC
+SysId102=0x
+SysName102=BU IDS UMA CelN2840 2GB 16G eMMC 14 G4
+SysId103=0x
+SysName103=BU IDS UMA CelN2840 2GB 32G eMMC 14 G4
+SysId104=0x
+SysName104=BU IDS UMA CelN2840 4GB 16G eMMC 14 G4
+SysId105=0x
+SysName105=BU IDS UMA CelN2840 4GB 32G eMMC 14 G4
+SysId106=0x
+SysName106=BU IDS UMA CelN2940 2GB 16G eMMC 14 G4
+SysId107=0x
+SysName107=BU IDS UMA CelN2940 2GB 32G eMMC 14 G4
+SysId108=0x
+SysName108=BU IDS UMA CelN2940 4GB 16G eMMC 14 G4
+SysId109=0x
+SysName109=BU IDS UMA CelN2940 4GB 32G eMMC 14 G4
+SysId110=0x805F
+SysName110=HP ProDesk 490 G3 MT Business PC
+SysId111=0x805F
+SysName111=HP ProDesk 498 G3 MT Business PC
+SysId112=0x805A
+SysName112=HP EliteDesk 705 G2 MT Business PC
+SysId113=0x805A
+SysName113=HP EliteDesk 705 G2 SFF Business PC
+SysId114=0x805C
+SysName114=HP EliteOne 705 G2 23-in Non-Touch All-in-One PC
+SysId115=0x805C
+SysName115=HP EliteOne 705 G2 23-in Touch All-in-One PC
+SysId116=0x805B
+SysName116=HP EliteDesk 705 G2 DM Business PC
+SysId117=0x805B
+SysName117=HP EliteDesk 705 G2 DM Business PC
+SysId118=0x805B
+SysName118=HP EliteDesk 705 G2 DM Business PC
+SysId119=0x805B
+SysName119=HP EliteDesk 705 G2 DM Business PC
+SysId120=0x805B
+SysName120=HP EliteDesk 705 G2 DM Business PC
+SysId121=0x
+SysName121=BU IDS UMA CelN2840 fHDD/ODD eDP 15-f2
+SysId122=0x
+SysName122=BU IDS UMA CelN2940 fHDD/ODD eDP 15-f2
+SysId123=0x
+SysName123=BU IDS UMA CelN3050 fHDD/ODD eDP 15-f2
+SysId124=0x
+SysName124=BU IDS UMA CelN3150 fHDD/ODD eDP 15-f2
+SysId125=0x
+SysName125=BU IDS UMA i3-4005U fHDD/ODD eDP 15-f2
+SysId126=0x
+SysName126=BU IDS UMA PentN3540 fHDD/ODD eDP 15-f2
+SysId127=0x
+SysName127=BU IDS UMA PentN3700 fHDD/ODD eDP 15-f2
+SysId128=0x2B3E
+SysName128=HP Envy 27-m0xx All-in-One PC
+SysId129=0x2B3E
+SysName129=HP Envy 27-m0xx All-in-One PC
+SysId130=0x2B3E
+SysName130=HP Envy 27-m0xx All-in-One PC
+SysId131=0x2B3E
+SysName131=HP Envy 27-m0xx All-in-One PC
+SysId132=0x8055
+SysName132=HP EliteDesk 800 G2 Retail System
+SysId133=0x8058
+SysName133=HP EliteOne 800 G2 23-in Touch All-in-One Retail
+SysId134=0x8060
+SysName134=HP ProDesk 480 G3 MT Business PC
+SysId135=0x8063
+SysName135=HP ProOne 400 G2 20-in Non-Touch All-in-One PC
+SysId136=0x8063
+SysName136=HP ProOne 400 G2 20-in Touch All-in-One PC
+SysId137=0x8058
+SysName137=HP EliteOne 800 G2 23-in Non-Touch All-in-One PC
+SysId138=0x8058
+SysName138=HP EliteOne 800 G2 23-in Touch All-in-One PC
+SysId139=0x8056
+SysName139=HP EliteDesk 800 G2 DM 65W Business PC
+SysId140=0x805E
+SysName140=HP ProOne 600 G2 21.5-in Non-Touch All-in-One PC
+SysId141=0x805E
+SysName141=HP ProOne 600 G2 21.5-in Touch All-in-One PC
+SysId142=0x8062
+SysName142=HP ProDesk 400 G3 SFF Business PC
+SysId143=0x8057
+SysName143=HP EliteOne 800 G2 23-in Non-Touch GPU All-in-One
+SysId144=0x8057
+SysName144=HP EliteOne 800 G2 23-in Touch GPU All-in-One PC
+SysId145=0x8169
+SysName145=HP ProDesk 600 G2 DM Business PC
+SysId146=0x8105
+SysName146=HP ProDesk 400 G2.5 SFF Business PC
+SysId147=0x8055
+SysName147=HP EliteDesk 800 G2 DM 35W Business PC
+SysId148=0x8054
+SysName148=HP EliteDesk 800 G2 SFF Business PC
+SysId149=0x8053
+SysName149=HP EliteDesk 880 G2 TWR Business PC
+SysId150=0x8053
+SysName150=HP EliteDesk 800 G2 TWR Business PC
+SysId151=0x805D
+SysName151=HP ProDesk 680 G2 MT Business PC
+SysId152=0x805D
+SysName152=HP ProDesk 600 G2 MT Business PC
+SysId153=0x805D
+SysName153=HP ProDesk 600 G2 SFF Business PC
+SysId154=0x8059
+SysName154=HP EliteOne 800 G2 AiO 21.5 NT Business PC
+SysId155=0x8059
+SysName155=HP EliteOne 800 G2 AiO 21.5 Touch Business PC
+SysId156=0x806A
+SysName156=HP ProDesk 400 G2 DM Business PC
+SysId157=0x
+SysName157=HP 200 G1 ST Business PC
+SysId158=0x
+SysName158=HP 200 G1 ST Business PC
+SysId159=0x2B58
+SysName159=Compaq 230-axx Desktop PC
+SysId160=0x8076
+SysName160=HP ProDesk 400 G1 DM Business PC
+SysId161=0x
+SysName161=BU ICTO DSC 940M 2GB i5-5200U 15-ab0
+SysId162=0x
+SysName162=BU ICTO DSC 940M 2GB i7-5500U 15-ab0
+SysId163=0x
+SysName163=BU ICTO UMA i7-5500U 15-ab0
+SysId164=0x
+SysName164=BU IDS DSC 940M 2GB i5-5200U 15-ab0
+SysId165=0x
+SysName165=BU IDS DSC 940M 2GB i7-5500U 15-ab0
+SysId166=0x
+SysName166=BU IDS UMA i7-5500U 15-ab0
+SysId167=0x2B4A
+SysName167=HP 285 Pro G1 MT Business PC
+SysId168=0x2B34
+SysName168=HP 280 Pro G1 Business PC
+SysId169=0x2B34
+SysName169=HP 280 Pro G1 Business PC
+SysId170=0x2B18
+SysName170=HP 251-0xx Desktop
+SysId171=0x2B56
+SysName171=HP 20-r0xx All-in-One
+SysId172=0x2B3C
+SysName172=HP 20-r0xx All-in-One PC
+SysId173=0x
+SysName173=HP 20-r0xx All-in-One PC
+SysId174=0x2B3F
+SysName174=HP 20-r0xx All-in-One PC
+SysId175=0x2B3B
+SysName175=HP 20-r0xx All-in-One PC
+SysId176=0x2B56
+SysName176=HP 20-r0xx All-in-One PC
+SysId177=0x2B40
+SysName177=HP 20-r0xx All-in-One PC
+SysId178=0x2B40
+SysName178=HP 20-r0xx All-in-One PC
+SysId179=0x2B41
+SysName179=HP 20-r0xx All-in-One PC
+SysId180=0x2B41
+SysName180=HP 20-r0xx All-in-One PC
+SysId181=0x
+SysName181=HP 20-r0xx All-in-One PC
+SysId182=0x2B3C
+SysName182=HP xxxx
+SysId183=0x2B3B
+SysName183=HP 20-r0xx All-in-One
+SysId184=0x2B56
+SysName184=HP 20-r0xx All-in-One
+SysId185=0x2B56
+SysName185=HP 20-r0xx All-in-One PC
+SysId186=0x
+SysName186=BU ICTO UMA i3-5020U 17-g0
+SysId187=0x
+SysName187=BU ICTO UMA PentN3700 17-g0
+SysId188=0x
+SysName188=BU IDS UMA i3-5020U 17-g0
+SysId189=0x
+SysName189=BU IDS UMA PentN3700 17-g0
+SysId190=0x2B2C
+SysName190=HP Pavilion 550-0xx Desktop PC
+SysId191=0x2B47
+SysName191=HP Pavilion 550-0xx Desktop PC
+SysId192=0x2B35
+SysName192=HP Pavilion 550-0xx Desktop PC
+SysId193=0x2B52
+SysName193=HP Pavilion 550-0xx Desktop PC
+SysId194=0x
+SysName194=HP Pavilion 550-axx Desktop PC
+SysId195=0x2B29
+SysName195=HP Pavilion 550-axx Desktop PC
+SysId196=0x2B4F
+SysName196=HP Pavilion 550-axx Desktop PC
+SysId197=0x
+SysName197=BU ICTO UMA i5-5200U 15-ac0
+SysId198=0x
+SysName198=BU IDS DSC R5M330 2GB i3-5005U 15g-ad1
+SysId199=0x
+SysName199=BU IDS DSC R5M330 2GB i3-5005U 15q-aj1
+SysId200=0x
+SysName200=BU IDS DSC R5M330 2GB i3-6100U 15g-ad1
+SysId201=0x
+SysName201=BU IDS DSC R5M330 2GB i3-6100U 15q-aj1
+SysId202=0x
+SysName202=BU IDS DSC R5M330 2GB i5-5200U 15-ac0
+SysId203=0x
+SysName203=BU IDS DSC R5M330 2GB i5-6200U 15g-ad1
+SysId204=0x
+SysName204=BU IDS DSC R5M330 2GB i5-6200U 15q-aj1
+SysId205=0x
+SysName205=BU IDS DSC R5M330 2GB i7-6500U 15g-ad1
+SysId206=0x
+SysName206=BU IDS DSC R5M330 2GB i7-6500U 15q-aj1
+SysId207=0x
+SysName207=BU IDS UMA CelN3050 15g-ad0
+SysId208=0x
+SysName208=BU IDS UMA CelN3050 15q-aj0
+SysId209=0x
+SysName209=BU IDS UMA i5-5200U 15-ac0
+SysId210=0x2B1A
+SysName210=HP 200 Pro G1 MT Business PC
+SysId211=0x2B1A
+SysName211=HP 200 Pro G1 MT Business PC
+SysId212=0x2B1A
+SysName212=HP 200 Pro G1 MT Business PC
+SysId213=0x2B2C
+SysName213=HP 110-axx Desktop PC
+SysId214=0x2B46
+SysName214=HP 251-0xx Desktop PC
+SysId215=0x2B46
+SysName215=HP 251-0xx Desktop PC
+SysId216=0x2B2C
+SysName216=HP 251-0xx Desktop PC
+SysId217=0x2B29
+SysName217=HP 251-axx Desktop PC
+SysId218=0x2B4F
+SysName218=HP 251-axx Desktop PC
+SysId219=0x2B46
+SysName219=HP 251-axx Desktop PC
+SysId220=0x2B46
+SysName220=HP 251-axx Desktop PC
+SysId221=0x2B58
+SysName221=HP 251-axx Desktop PC
+SysId222=0x2B29
+SysName222=HP 251-axx Desktop PC
+SysId223=0x2B28
+SysName223=HP 251-axx Desktop PC
+SysId224=0x2B28
+SysName224=HP 251-axx Desktop PC
+SysId225=0x2B36
+SysName225=HP ENVY 700-0xx PC
+SysId226=0x2B2C
+SysName226=HP ENVY 700-0xx PC
+SysId227=0x2B35
+SysName227=HP Envy 700-0xx PC
+SysId228=0x2B36
+SysName228=HP ENVY Phoenix 810-0xx PC
+SysId229=0x2B54
+SysName229=HP All-in-One
+SysId230=0x2B54
+SysName230=HP All-in-One
+SysId231=0x2B5A
+SysName231=HP All-in-One
+SysId232=0x2B5A
+SysName232=HP All-in-One
+SysId233=0x2B5A
+SysName233=HP All-in-One
+SysId234=0x2B5A
+SysName234=HP All-in-One
+SysId235=0x
+SysName235=BU ICTO DSC 930M 2GB i7-5500U 15t-w1
+SysId236=0x
+SysName236=BU ICTO UMA i5-5200U 15t-w1
+SysId237=0x
+SysName237=BU IDS DSC 930M 2GB i7-5500U 15-w1
+SysId238=0x
+SysName238=BU IDS DSC 940M 2GB i7-5500U 17-n0
+SysId239=0x
+SysName239=BU IDS DSC 940M 2GB i7-XXXXU 17-n1
+SysId240=0x8061
+SysName240=HP ProDesk 400 G3 MT Business PC
+SysId241=0x2B42
+SysName241=HP Pavilion 23-q0xx All-in-One PC
+SysId242=0x2B45
+SysName242=HP Pavilion 23-q0xx All-in-One PC
+SysId243=0x2B45
+SysName243=HP Pavilion 23-q0xx All-in-One PC
+SysId244=0x2B45
+SysName244=HP Pavilion 23-q0xx All-in-One PC
+SysId245=0x2B43
+SysName245=HP Pavilion 23-q0xx All-in-One PC
+SysId246=0x2B43
+SysName246=HP Pavilion 23-q0xx All-in-One PC
+SysId247=0x2B43
+SysName247=HP Pavilion 23-q0xx All-in-One PC
+SysId248=0x
+SysName248=HP Pavilion 23-q0xx All-in-One PC
+SysId249=0x2B42
+SysName249=HP Pavilion 23-q0xx All-in-One PC
+SysId250=0x2B42
+SysName250=HP Pavilion 23-q0xx All-in-One PC
+SysId251=0x2B44
+SysName251=HP Pavilion 23-q0xx All-in-One PC
+SysId252=0x2B44
+SysName252=HP Pav xxxx PC
+SysId253=0x2B45
+SysName253=HP Pavilion 23-q0xx All-in-One PC
+SysId254=0x2B45
+SysName254=HP Pavilion 23-q0xx All-in-One PC
+SysId255=0x2B45
+SysName255=HP Pavilion 23-q0xx All-in-One PC
+SysId256=0x2B43
+SysName256=HP Pavilion 23-q0xx All-in-One PC
+SysId257=0x2B43
+SysName257=HP Pavilion 23-q0xx All-in-One PC
+SysId258=0x2B43
+SysName258=HP Pavilion 23-q0xx All-in-One PC
+SysId259=0x
+SysName259=Sprout Immersive Computer 23-xxxx
+SysId260=0x
+SysName260=Sprout Immersive Computer 23-xxxx
+SysId261=0x0A1C
+SysName261=HP W2082a LED Backlit Monitor
+SysId262=0x
+SysName262=BU IDS UMA FX-8800P 15-ah1
+SysId263=0x2B3E
+SysName263=HP ENVY 24-m0xx All-in-One PC
+SysId264=0x2B3E
+SysName264=HP ENVY 24-m0xx All-in-One PC
+SysId265=0x2B2F
+SysName265=HP 205 G2 AiO Business PC
+SysId266=0x
+SysName266=BU ICTO UMA i5-5200U 4GB 13-40 x360
+SysId267=0x
+SysName267=BU ICTO UMA i7-5500U 8GB 13-40 x360
+SysId268=0x
+SysName268=BU IDS UMA i5-5200U 4GB 13-40 x360
+SysId269=0x8103
+SysName269=HP t730 Thin Client
+SysId270=0x
+SysName270=BU IDS UMA CelN2840 2GB 32G eMMC 11-r0
+SysId271=0x
+SysName271=BU IDS UMA CN28402GB 32GeMMC WWAN 11-r0
+SysId272=0x
+SysName272=BU IDS CelN3050 2GB 32G eMMC 11 G2
+SysId273=0x
+SysName273=BU IDS CelN3050 4GB 64G eMMC 11 G2
+SysId274=0x
+SysName274=BU IDS CelN3150 2GB 32G eMMC 11 G2
+SysId275=0x
+SysName275=BU IDS CelN3150 2GB 64G eMMC 11 G2
+SysId276=0x
+SysName276=BU IDS CelN3150 4GB 64G eMMC 11 G2
+SysId277=0x
+SysName277=BU IDS N3050 2GB 64G eMMC 11 G2
+SysId278=0x2B38
+SysName278=HP Pavilion Mini Desktop 300-0xx
+SysId279=0x2B38
+SysName279=HP Stream Mini Desktop 200-0xx
+SysId280=0x2B38
+SysName280=HP Pavilion Mini Desktop 300-0xx
+SysId281=0x2B38
+SysName281=HP Pavilion Mini Desktop 300-0xx
+SysId282=0x2B38
+SysName282=HP Pavilion Mini Desktop 300-0xx
+SysId283=0x2B38
+SysName283=HP Pavilion Mini Desktop 300-0xx
+SysId284=0x2B55
+SysName284=HP Pavilion Mini Desktop 300-0xx
+SysId285=0x2B55
+SysName285=HP Pavilion Mini Desktop 300-0xx
+SysId286=0x2B38
+SysName286=HP Pavilion Mini Desktop 300-0xx
+SysId287=0x2B38
+SysName287=HP Pavilion Mini Desktop 300-0xx
+SysId288=0x2B38
+SysName288=HP Pavilion Mini Desktop 300-0xx
+SysId289=0x2B38
+SysName289=HP Pavilion Mini Desktop 300-0xx
+SysId290=0x2B38
+SysName290=HP Pavilion Mini Desktop 300-0xx
+SysId291=0x2B18
+SysName291=HP Slimline 450-0xx Desktop
+SysId292=0x2B2C
+SysName292=HP Slimline 450-0xx Desktop PC
+SysId293=0x2B46
+SysName293=HP Slimline 450-axx Desktop PC
+SysId294=0x2B46
+SysName294=HP Slimline 450-axx Desktop PC
+SysId295=0x2B46
+SysName295=HP Slimline 450-axx Desktop PC
+SysId296=0x2B46
+SysName296=HP Slimline 450-axx Desktop PC
+SysId297=0x2B58
+SysName297=HP Slimline 450-axx Desktop PC
+SysId298=0x2B29
+SysName298=HP Slimline 450-axx Desktop PC
+SysId299=0x2B28
+SysName299=HP Slimline 450-axx Desktop PC
+SysId300=0x2B28
+SysName300=HP Slimline 450-axx Desktop PC
+SysId301=0x
+SysName301=BU RCTO UMA Cel3855U HD fCam fFPR 450 G3
+SysId302=0x
+SysName302=BU RCTO UMA i3-6100U HD fCam fFPR 450 G3
+SysId303=0x
+SysName303=BU RCTO UMA i5-6200U FHD fCam fFPR 450G3
+SysId304=0x
+SysName304=BU RCTO UMA i5-6200U HD fCam fFPR 450 G3
+SysId305=0x
+SysName305=BU RCTO UMA i5-6200U HD fCam fFPRTS450G3
+SysId306=0x
+SysName306=BU RCTO UMA i7-6500U FHD fCam fFPR 450G3
+SysId307=0x
+SysName307=BU IDS UMA CelN2840 2GB 32G eMMC 13-c0
+SysId308=0x
+SysName308=BU IDS UMA CelN3050 2GB 32G eMMC 13-c1
+SysId309=0x2B3C
+SysName309=HP 23-r0xx All-in-One PC
+SysId310=0x
+SysName310=HP 23-r0xx All-in-One PC
+SysId311=0x2B3F
+SysName311=HP 23-r0xx All-in-One PC
+SysId312=0x2B3B
+SysName312=HP 23-r0xx All-in-One PC
+SysId313=0x
+SysName313=HP 23-r0xx All-in-One PC
+SysId314=0x2B3B
+SysName314=HP 23-r0xx All-in-One PC
+SysId315=0x2B3B
+SysName315=HP 23-r0xx All-in-One PC
+SysId316=0x2B59
+SysName316=HP 23-r0xx All-in-One PC
+SysId317=0x2B40
+SysName317=HP 23-r0xx All-in-One PC
+SysId318=0x
+SysName318=HP Slimline Desktop PC
+SysId319=0x
+SysName319=HP 280 G1 ST Business PC
+SysId320=0x
+SysName320=BU RCTO PCB UMA CelN3050 14-ac0 BRZL
+SysId321=0x
+SysName321=BU RCTO PCB UMA i3-5005U 14-ac0 BRZL
+SysId322=0x
+SysName322=BU RCTO PCB UMA i5-5200U 14-ac0 BRZL
+SysId323=0x
+SysName323=BU RCTO PCB UMA PentN3825U 14-ac0 BRZL
+SysId324=0x
+SysName324=BU RCTOPCB DSC R5M330 2Gi5-5200U14-ac0BR
+SysId325=0x
+SysName325=BU IDS DSC R5M330 2GB i3-5005U 14g-ad1
+SysId326=0x
+SysName326=BU IDS DSC R5M330 2GB i3-5005U 14q-aj1
+SysId327=0x
+SysName327=BU IDS DSC R5M330 2GB i3-6100U 14g-ad1
+SysId328=0x
+SysName328=BU IDS DSC R5M330 2GB i3-6100U 14q-aj1
+SysId329=0x
+SysName329=BU IDS DSC R5M330 2GB i5-6200U 14g-ad1
+SysId330=0x
+SysName330=BU IDS DSC R5M330 2GB i5-6200U 14q-aj1
+SysId331=0x
+SysName331=BU IDS UMA CelN3050 14g-ad0
+SysId332=0x
+SysName332=BU IDS UMA CelN3050 14q-aj0
+SysId333=0x
+SysName333=BU IDS UMA i3-5005U 14g-ad1
+SysId334=0x
+SysName334=BU IDS UMA i3-5005U 14q-aj1
+SysId335=0x2B2C
+SysName335=HP Pavilion Slimline 400-0xx PC
+SysId336=0x2B45
+SysName336=HP Pavilion 27-n0xx All-in-One PC
+SysId337=0x2B43
+SysName337=HP Pavilion 27-n0xx All-in-One PC
+SysId338=0x2B45
+SysName338=HP Pavilion 27-n0xx All-in-One PC
+SysId339=0x2B45
+SysName339=HP Pavilion 27-n0xx All-in-One PC
+SysId340=0x2B43
+SysName340=HP Pavilion 27-n0xx All-in-One PC
+SysId341=0x2B43
+SysName341=HP Pavilion 27-n0xx All-in-One PC
+SysId342=0x2B43
+SysName342=HP Pavilion 27-n0xx All-in-One PC
+SysId343=0x2B4C
+SysName343=HP Envy 34 All-in-One PC
+SysId344=0x2B4C
+SysName344=HP Envy 34 All-in-One PC
+SysId345=0x
+SysName345=BU ICTO UMA A6-5200 fHDD/ODD 15-f3
+SysId346=0x
+SysName346=BU IDS UMA A6-5200 fHDD/ODD 15-f0
+SysId347=0x
+SysName347=BU IDS UMA A8-6410 fHDD/ODD eDP 15-f3
+SysId348=0x2B56
+SysName348=HP 22-30xx All-in-One
+SysId349=0x2B3C
+SysName349=HP 22-30xx All-in-One PC
+SysId350=0x2B56
+SysName350=HP 22-30xx All-in-One PC
+SysId351=0x2B40
+SysName351=HP 22-30xx All-in-One PC
+SysId352=0x2B40
+SysName352=HP 22-30xx All-in-One PC
+SysId353=0x2B41
+SysName353=HP 22-30xx All-in-One PC
+SysId354=0x2B3C
+SysName354=HP 22-30xx All-in-One PC
+SysId355=0x
+SysName355=HP 22-30xx All-in-One PC
+SysId356=0x2B3B
+SysName356=HP 22-30xx All-in-One PC
+SysId357=0x
+SysName357=BU IDS i5-xxxx 15 G3
+SysId358=0x
+SysName358=BU IDS i7-QC2 15 G3
+SysId359=0x
+SysName359=BU IDS i7-T4 15 G3
+SysId360=0x
+SysName360=BU IDS Xeon Z2 15 G3
+SysId361=0x
+SysName361=BU IDS Xeon Z3+ 15 G3
+SysId362=0x
+SysName362=BU RCTO i5-xxxx 15 G3
+SysId363=0x
+SysName363=BU RCTO i7-QC2 15 G3
+SysId364=0x
+SysName364=BU RCTO i7-T4 15 G3
+SysId365=0x
+SysName365=BU RCTO Xeon Z2 15 G3
+SysId366=0x
+SysName366=BU RCTO Xeon Z3+ 15 G3
+SysId367=0x2B36
+SysName367=HP ENVY Phoenix 850-0xx Desktop PC
+SysId368=0x2B4B
+SysName368=HP ENVY Phoenix 850-0xx Desktop PC
+SysId369=0x2B3A
+SysName369=HP ENVY Phoenix 850-0xx Desktop PC
+SysId370=0x2B2C
+SysName370=HP Pavilion 500-0xx PC
+SysId371=0x2B35
+SysName371=HP Pavilion 500-axx PC
+SysId372=0x807D
+SysName372=HP Z228 Microtower Workstation
+SysId373=0x8077
+SysName373=HP t420 Thin Client
+SysId374=0x
+SysName374=BU IDS DSC i7-QC2 G3
+SysId375=0x
+SysName375=BU IDS DSC i7-T4 G3
+SysId376=0x
+SysName376=BU IDS DSC Xeon Z2 G3
+SysId377=0x
+SysName377=BU IDS DSC Xeon Z3+ G3
+SysId378=0x
+SysName378=BU IDS UMA i7-QC2 G3
+SysId379=0x
+SysName379=BU IDS UMA i7-T4 G3
+SysId380=0x
+SysName380=BU RCTO DSC i7-QC2 G3
+SysId381=0x
+SysName381=BU RCTO DSC i7-T4 G3
+SysId382=0x
+SysName382=BU RCTO DSC Xeon Z2 G3
+SysId383=0x
+SysName383=BU RCTO DSC Xeon Z3+ G3
+SysId384=0x
+SysName384=BU RCTO UMA i7-QC2 G3
+SysId385=0x
+SysName385=BU RCTO UMA i7-T4 G3
+
+[Install Execution]
+Install="Setup.exe"
+SilentInstall="install.cmd"
+
+[ReturnCode]
+0:SUCCESS:NOREBOOT=Installation successful.
+3010:SUCCESS:REBOOT=Installation successful. A reboot is required to complete the installation.
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and saving the file to a folder on your hard drive (make a note of the folder where the downloaded file is saved).
+
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 06/22/2015
+Copyright © 2015 HP Development Company, L.P. 
